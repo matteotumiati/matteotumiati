@@ -17,3 +17,7 @@ jobs:
       with:
         comment_tag_name: "BLOG-POSTS"
         feed_list: "https://www.aspitalia.com/my/feed.aspx?k=akXGpKy7IvI%3d"
+
+    - uses: jamesgeorge007/github-activity-readme@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
