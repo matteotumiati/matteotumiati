@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Le novit&#224; di ASP.NET Core 5](https://www.aspitalia.com/articoli/asp.net-core5/novita-aspnetcore-net5.aspx)
 - [.NET Conference Italia 2020 - Online](https://www.aspitalia.com/eventi/85/.NET-Conference-Italia-2020-Online.aspx)
 - [Autenticazione condizionale a due fattori con Azure Active Directory B2C](https://www.windowsazureitalia.com/script/189/Autenticazione-Condizionale-Fattori-Azure-Active-Directory-B2C.aspx)
 - [Inizializzazione asincrona di un servizio allo startup di un&#39;applicazione Blazor](https://www.aspitalia.com/script/1373/Inizializzazione-Asincrona-Servizio-Startup-Applicazione-Blazor.aspx)
 - [Creare automaticamente una relazione padre-figlio tra work item in Azure DevOps](https://www.dopsitalia.com/script/21/Creare-Automaticamente-Relazione-Padrefiglio-Work-Azure-DevOps.aspx)
-- [Creare un controllo Expander in un&#39;app Xamarin Forms](https://www.winrtitalia.com/script/258/Creare-Controllo-Expander-App-Xamarin-Forms.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
