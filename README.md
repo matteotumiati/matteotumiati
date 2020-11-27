@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Creare un Module Initializer in .NET 5](https://www.winfxitalia.com/script/545/Creare-Module-Initializer-.NET.aspx)
 - [Produttivit&#224; con C# 9](https://media.aspitalia.com/events/netconfit20-CSharp9.media)
 - [Estensioni personalizzate per le pipeline di Azure DevOps e GitHub con .NET 5](https://media.aspitalia.com/events/netconfit20-devops.media)
 - [Entity Framework Core 5](https://media.aspitalia.com/events/netconfit20-EF-Core-5.media)
 - [Azure Kubernetes Service con .NET 5](https://media.aspitalia.com/events/netconfit20-Kubernets-NET5.media)
-- [Le novit&#224; di .NET 5](https://media.aspitalia.com/events/netconfit20-net5.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
