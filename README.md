@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Dimensionare dinamicamente una TextArea in Blazor](https://www.aspitalia.com/script/1374/Dimensionare-Dinamicamente-TextArea-Blazor.aspx)
-- [Creare un Module Initializer in .NET 5](https://www.winfxitalia.com/script/545/Creare-Module-Initializer-.NET.aspx)
-- [Produttivit&#224; con C# 9](https://media.aspitalia.com/events/netconfit20-CSharp9.media)
-- [Estensioni personalizzate per le pipeline di Azure DevOps e GitHub con .NET 5](https://media.aspitalia.com/events/netconfit20-devops.media)
-- [Entity Framework Core 5](https://media.aspitalia.com/events/netconfit20-EF-Core-5.media)
+- [ASP.NET Core 5 &amp; Blazor 5 (Parte 1)](https://media.aspitalia.com/events/netconfit20-aspnetcore5-blazor.media)
+- [Graph API con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-graphapi.media)
+- [GRPC vs REST con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-grpc-rest.media)
+- [Single Page Application con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-singlepageapplications.media)
+- [Keep Calm and Distributed Tracing](https://media.aspitalia.com/webcast/netconfit20-DistributedTracing.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
