@@ -31,7 +31,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [ASP.NET Core 5 &amp; Blazor 5 (Parte 1)](https://media.aspitalia.com/events/netconfit20-aspnetcore5-blazor.media)
+- [ASP.NET Core 5 &amp; Blazor 5](https://media.aspitalia.com/events/netconfit20-aspnetcore5-blazor.media)
 - [Graph API con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-graphapi.media)
 - [GRPC vs REST con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-grpc-rest.media)
 - [Single Page Application con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-singlepageapplications.media)
