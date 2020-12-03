@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Impostare e validare il tipo dei parametri nei template delle pipeline di Azure DevOps](https://www.dopsitalia.com/script/23/Impostare-Validare-Tipo-Parametri-Template-Pipeline-Azure-DevOps.aspx)
+- [Abilitare l&#39;uso di C# 9 nelle applicazioni Xamarin.Forms](https://www.winrtitalia.com/script/259/Abilitare-Uso-CSharp-Applicazioni-Xamarin.Forms.aspx)
 - [ASP.NET Core 5 &amp; Blazor 5](https://media.aspitalia.com/events/netconfit20-aspnetcore5-blazor.media)
 - [Graph API con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-graphapi.media)
 - [GRPC vs REST con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-grpc-rest.media)
-- [Single Page Application con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-singlepageapplications.media)
-- [Keep Calm and Distributed Tracing](https://media.aspitalia.com/webcast/netconfit20-DistributedTracing.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
