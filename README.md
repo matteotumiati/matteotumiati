@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Visualizzare un template durante il caricamento di Virtualize in Blazor](https://www.aspitalia.com/script/1375/Visualizzare-Template-Caricamento-Virtualize-Blazor.aspx)
 - [Storage persistente con Kubernetes e AWS](https://blogs.aspitalia.com/az/post2897/Storage-Persistente-Kubernetes-AWS.aspx)
 - [Impostare e validare il tipo dei parametri nei template delle pipeline di Azure DevOps](https://www.dopsitalia.com/script/23/Impostare-Validare-Tipo-Parametri-Template-Pipeline-Azure-DevOps.aspx)
 - [Abilitare l&#39;uso di C# 9 nelle applicazioni Xamarin.Forms](https://www.winrtitalia.com/script/259/Abilitare-Uso-CSharp-Applicazioni-Xamarin.Forms.aspx)
 - [ASP.NET Core 5 &amp; Blazor 5](https://media.aspitalia.com/events/netconfit20-aspnetcore5-blazor.media)
-- [Graph API con .NET 5](https://media.aspitalia.com/events/netconfit20-net5-graphapi.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
