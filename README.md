@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
+- [Introduzione a GitHub](https://www.dopsitalia.com/articoli/DevOps/intro-github.aspx)
 - [Recuperare un Azure Storage account cancellato](https://www.windowsazureitalia.com/script/191/Recuperare-Azure-Storage-Account-Cancellato.aspx)
 - [Visualizzare un template durante il caricamento di Virtualize in Blazor](https://www.aspitalia.com/script/1375/Visualizzare-Template-Caricamento-Virtualize-Blazor.aspx)
-- [Storage persistente con Kubernetes e AWS](https://blogs.aspitalia.com/az/post2897/Storage-Persistente-Kubernetes-AWS.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
