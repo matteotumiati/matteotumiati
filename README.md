@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
+- [Tracciabilit&#224; dei work item nel ciclo di vita del software con Azure DevOps](https://www.dopsitalia.com/script/24/Tracciabilita-Work-Ciclo-Vita-Software-Azure-DevOps.aspx)
+- [Uso dei design-time data nelle applicazioni della Universal Windows Platform](https://www.winrtitalia.com/script/260/Uso-Designtime-Data-Applicazioni-Universal-Windows-Platform.aspx)
 - [Introduzione a GitHub](https://www.dopsitalia.com/articoli/DevOps/intro-github.aspx)
-- [Recuperare un Azure Storage account cancellato](https://www.windowsazureitalia.com/script/191/Recuperare-Azure-Storage-Account-Cancellato.aspx)
-- [Visualizzare un template durante il caricamento di Virtualize in Blazor](https://www.aspitalia.com/script/1375/Visualizzare-Template-Caricamento-Virtualize-Blazor.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
