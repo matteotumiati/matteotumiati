@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
+- [Kubernetes, gRPC e service mesh](https://blogs.aspitalia.com/az/post2898/Kubernetes-GRPC-Service-Mesh.aspx)
 - [Usare i Top Level statement in C#](https://www.winfxitalia.com/script/547/Usare-Top-Level-Statement-CSharp.aspx)
 - [Uso dei design-time data nelle applicazioni della Universal Windows Platform](https://www.winrtitalia.com/script/260/Uso-Designtime-Data-Applicazioni-Universal-Windows-Platform.aspx)
-- [Tracciabilit&#224; dei work item nel ciclo di vita del software con Azure DevOps](https://www.dopsitalia.com/script/24/Tracciabilita-Work-Ciclo-Vita-Software-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
