@@ -33,11 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
+- [Indicizzare Cosmos DB con Azure Search](https://www.windowsazureitalia.com/script/194/Indicizzare-Cosmos-DB-Azure-Search.aspx)
 - [Attesa e validazione manuale nelle pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/26/Attesa-Validazione-Manuale-Pipeline-YAML-Azure-DevOps.aspx)
 - [Winget: un nuovo package manager per Windows](https://www.winrtitalia.com/script/261/Winget-Package-Manager-Windows.aspx)
-- [il 18/02 c&#39;&#232; il #container &amp; #devops day! https://aspit.co/ContainerDevOpsDay-21
-
-Le iscrizioni sono sempre aperte e la Call For Paper &#232; attiva fino al 28/01! #aspilive #cfp](https://twitter.aspitalia.com/5655)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
