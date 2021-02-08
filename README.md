@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
+- [Gestire dati temporali di gRPC in ASP.NET Core e C#](https://www.aspitalia.com/script/1380/Gestire-Dati-Temporali-GRPC-ASP.NET-Core-CSharp.aspx)
 - [Recuperare la data di creazione di un tag tramite una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/28/Recuperare-Data-Creazione-Tag-Tramite-Pipeline-YAML-Azure-DevOps.aspx)
 - [Aggiungere il Microsoft Store come repository per winget](https://www.winrtitalia.com/script/262/Aggiungere-Microsoft-Store-Repository-Winget.aspx)
-- [Usare gRPC come infrastruttura per i nostri servizi web](https://www.aspitalia.com/articoli/asp.net-core5/grpc/usare-grpc-infrastruttura-nostri-servizi-web.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
