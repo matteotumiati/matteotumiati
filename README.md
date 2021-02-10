@@ -33,7 +33,8 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
-- [Utilizzare il soft delete for Azure file share](https://www.windowsazureitalia.com/script/196/Utilizzare-Soft-Delete-For-Azure-File-Share.aspx)
+- [DevSecOps applicato ad Azure DevOps](https://www.dopsitalia.com/articoli/DevOps/azdo-devsecops.aspx)
+- [Utilizzare il soft delete for Azure file share](https://www.cloudnativeitalia.com/script/196/Utilizzare-Soft-Delete-For-Azure-File-Share.aspx)
 - [Ci vediamo il 18 per il nostro prossimo #aspilive!
 
 Parleremo di Container e DevOps! Non mancante!
@@ -41,7 +42,6 @@ Parleremo di Container e DevOps! Non mancante!
 Agenda &amp; iscrizioni =&gt; https://aspit.co/ContainerDevOpsDay-21
 
 #kubernetes #docker #containers #devops #aks #terraform](https://twitter.aspitalia.com/5674)
-- [Gestire dati temporali di gRPC in ASP.NET Core e C#](https://www.aspitalia.com/script/1380/Gestire-Dati-Temporali-GRPC-ASP.NET-Core-CSharp.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
