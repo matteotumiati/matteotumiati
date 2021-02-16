@@ -34,8 +34,8 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
+- [Reset della password di una Azure Virtual Machine](https://www.cloudnativeitalia.com/script/197/Reset-Password-Azure-Virtual-Machine.aspx)
 - [Creare una libreria di Controller in ASP.NET Core Web API](https://www.aspitalia.com/script/1381/Creare-Libreria-Controller-ASP.NET-Core-Web-API.aspx)
-- [Recuperare un repository tramite le REST API di Azure DevOps](https://www.dopsitalia.com/script/29/Recuperare-Repository-Tramite-REST-API-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
