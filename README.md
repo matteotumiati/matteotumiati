@@ -33,9 +33,12 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [chiudiamo con #devops per le applicazioni desktop con @qmatteoq
+scopri come distribuire automaticamente anche le applicazioni Windows: https://aspit.co/ContainerDevOpsDay-21 #aspilive](https://twitter.aspitalia.com/5701)
+- [quanto &#232; complesso utilizzare correttamente #DevOps?
+in questa sessione, @xTuMiOx ci parlare di come ha trasformato un team di 70 persone dal fare release manuali ad un sistema automatizzato
+#aspilive ora su =&gt; https://aspit.co/ContainerDevOpsDay-21](https://twitter.aspitalia.com/5698)
 - [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
-- [Scrivere le release note tramite work item e pull request in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/30/Scrivere-Release-Note-Tramite-Work-Pull-Request-Pipeline.aspx)
-- [Chiamare API WinRT da applicazioni .NET 5](https://www.winrtitalia.com/script/263/Chiamare-API-WinRT-Applicazioni-.NET.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
