@@ -38,7 +38,7 @@ scopri come distribuire automaticamente anche le applicazioni Windows: https://a
 - [quanto &#232; complesso utilizzare correttamente #DevOps?
 in questa sessione, @xTuMiOx ci parlare di come ha trasformato un team di 70 persone dal fare release manuali ad un sistema automatizzato
 #aspilive ora su =&gt; https://aspit.co/ContainerDevOpsDay-21](https://twitter.aspitalia.com/5698)
-- [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day.aspx)
+- [Container &amp; DevOps Day - Online](https://www.aspitalia.com/eventi/86/Container-DevOps-Day-Online.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
