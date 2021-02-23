@@ -33,10 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
-- [Registrare un servizio generico nella dependency injection di ASP.NET Core](https://www.aspitalia.com/script/1382/Registrare-Servizio-Generico-Dependency-Injection-ASP.NET-Core.aspx)
-- [Registrare un servizio generico nella dependency injection di ASP.NET Core](https://www.aspitalia.com/script/1383/Registrare-Servizio-Generico-Dependency-Injection-ASP.NET-Core.aspx)
-- [chiudiamo con #devops per le applicazioni desktop con @qmatteoq
-scopri come distribuire automaticamente anche le applicazioni Windows: https://aspit.co/ContainerDevOpsDay-21 #aspilive](https://twitter.aspitalia.com/5701)
+- [Scale your (AKS) cluster, Luke!](https://media.aspitalia.com/events/devopsday-aks-scaling.media)
+- [Esegui i tuoi container .NET in Amazon ECS](https://media.aspitalia.com/events/devopsday-aws-containers.media)
+- [DevOps per le applicazioni desktop](https://media.aspitalia.com/events/devopsday-devops-desktop-apps.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
