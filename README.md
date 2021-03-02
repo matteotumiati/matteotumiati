@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Effettuare il redirect da HTTP a HTTPS con la Azure CDN](https://www.cloudnativeitalia.com/script/199/Effettuare-Redirect-HTTP-HTTPS-Azure-CDN.aspx)
 - [Un componente per gestire lo stato della connessione di rete in Blazor WebAssembly](https://www.aspitalia.com/script/1384/Componente-Gestire-Connessione-Rete-Blazor-WebAssembly.aspx)
 - [Configurare una pipeline YAML per calcolare le release notes in Azure DevOps](https://www.dopsitalia.com/script/31/Configurare-Pipeline-YAML-Calcolare-Release-Notes-Azure-DevOps.aspx)
-- [Scale your (AKS) cluster, Luke!](https://media.aspitalia.com/events/devopsday-aks-scaling.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
