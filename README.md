@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Portare un&#39;applicazione Blazor WebAssmbly da static files a hosting in ASP.NET Core](https://www.aspitalia.com/script/1385/Portare-Applicazione-Blazor-WebAssmbly-Static-Files-Hosting-ASP.NET-Core.aspx)
 - [Modificare automaticamente la Wiki da una pipeline YAML con Azure DevOps](https://www.dopsitalia.com/script/32/Modificare-Automaticamente-Wiki-Pipeline-YAML-Azure-DevOps.aspx)
 - [Gestione dei token negli input di testo con la Universal Windows Platform](https://www.winrtitalia.com/script/264/Gestione-Token-Input-Testo-Universal-Windows-Platform.aspx)
-- [Effettuare il redirect da HTTP a HTTPS con la Azure CDN](https://www.cloudnativeitalia.com/script/199/Effettuare-Redirect-HTTP-HTTPS-Azure-CDN.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
