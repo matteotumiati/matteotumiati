@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Abilitare e gestire il prerendering nelle applicazioni Blazor WebAssembly](https://www.aspitalia.com/articoli/asp.net-core5/blazor/abilitare-gestire-prerendering-applicazioni-blazor-webassembly.aspx)
 - [Utilizzare Key Vault con le policy di Azure API Management](https://www.cloudnativeitalia.com/script/200/Utilizzare-Key-Vault-Policy-Azure-API-Management.aspx)
 - [Portare un&#39;applicazione Blazor WebAssmbly da static files a hosting in ASP.NET Core](https://www.aspitalia.com/script/1384/Portare-Applicazione-Blazor-WebAssmbly-Static-Files-Hosting-ASP.NET-Core.aspx)
-- [Modificare automaticamente la Wiki da una pipeline YAML con Azure DevOps](https://www.dopsitalia.com/script/32/Modificare-Automaticamente-Wiki-Pipeline-YAML-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
