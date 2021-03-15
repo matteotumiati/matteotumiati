@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Un pattern per gestire il pre-rendering in componenti Blazor complessi](https://www.aspitalia.com/script/1385/Pattern-Gestire-Prerendering-Componenti-Blazor-Complessi.aspx)
 - [Formattare il log delle pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/33/Formattare-Log-Pipeline-YAML-Azure-DevOps.aspx)
 - [Abilitare e gestire il prerendering nelle applicazioni Blazor WebAssembly](https://www.aspitalia.com/articoli/asp.net-core5/blazor/abilitare-gestire-prerendering-applicazioni-blazor-webassembly.aspx)
-- [Utilizzare Key Vault con le policy di Azure API Management](https://www.cloudnativeitalia.com/script/200/Utilizzare-Key-Vault-Policy-Azure-API-Management.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
