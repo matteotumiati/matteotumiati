@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Mostrare una percentuale di completamento di un task nelle pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/34/Mostrare-Percentuale-Completamento-Task-Pipeline-YAML-Azure-DevOps.aspx)
+- [Validazione dei parametri con le Guard API della Universal Windows Platform](https://www.winrtitalia.com/script/265/Validazione-Parametri-Guard-API-Universal-Windows-Platform.aspx)
 - [C#/WinRT: integrare l&#39;ecosistema di Windows 10 nelle applicazioni .NET](https://www.winrtitalia.com/articoli/Windows10/csharp-winrt.aspx)
-- [Hosting di un sito statico con Azure App Service per Linux](https://www.cloudnativeitalia.com/script/201/Hosting-Sito-Statico-Azure-App-Service-Linux.aspx)
-- [Un pattern per gestire il pre-rendering in componenti Blazor complessi](https://www.aspitalia.com/script/1385/Pattern-Gestire-Prerendering-Componenti-Blazor-Complessi.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
