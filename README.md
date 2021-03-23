@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Utilizzare PostgreSQL con Microsoft Azure](https://www.cloudnativeitalia.com/script/202/Utilizzare-PostgreSQL-Microsoft-Azure.aspx)
 - [Leggere la configurazione di Blazor da un endpoint di ASP.NET Core](https://www.aspitalia.com/script/1386/Leggere-Configurazione-Blazor-Endpoint-ASP.NET-Core.aspx)
 - [Mostrare una percentuale di completamento di un task nelle pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/34/Mostrare-Percentuale-Completamento-Task-Pipeline-YAML-Azure-DevOps.aspx)
-- [Validazione dei parametri con le Guard API della Universal Windows Platform](https://www.winrtitalia.com/script/265/Validazione-Parametri-Guard-API-Universal-Windows-Platform.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
