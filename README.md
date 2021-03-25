@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Impostare la priorit&#224; di esecuzione di una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/35/Impostare-Priorita-Esecuzione-Pipeline-YAML-Azure-DevOps.aspx)
 - [Distribuire applicazioni ASP.NET Core con AWS Elastic Beanstalk](https://www.cloudnativeitalia.com/articoli/aws/aspnetcore-aws-elastic-beanstalk.aspx)
 - [Utilizzare PostgreSQL con Microsoft Azure](https://www.cloudnativeitalia.com/script/202/Utilizzare-PostgreSQL-Microsoft-Azure.aspx)
-- [Leggere la configurazione di Blazor da un endpoint di ASP.NET Core](https://www.aspitalia.com/script/1386/Leggere-Configurazione-Blazor-Endpoint-ASP.NET-Core.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
