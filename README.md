@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
-- [Cancellare automaticamente una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/36/Cancellare-Automaticamente-Pipeline-YAML-Azure-DevOps.aspx)
+- [Utilizzare la nuova sintassi new per istanziare un oggetto in C#](https://www.winfxitalia.com/script/559/Utilizzare-Sintassi-New-Istanziare-Oggetto-CSharp.aspx)
 - [Il controllo XAML SwitchPresenter nella Universal Windows Platform](https://www.winrtitalia.com/script/266/Controllo-XAML-SwitchPresenter-Universal-Windows-Platform.aspx)
-- [Point-in-time restore con Azure Cosmos DB](https://www.cloudnativeitalia.com/script/203/Pointintime-Restore-Azure-Cosmos-DB.aspx)
+- [Cancellare automaticamente una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/36/Cancellare-Automaticamente-Pipeline-YAML-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
