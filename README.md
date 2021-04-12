@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
 - [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
+- [Gestire un errore HTTP in Blazor mostrando un messaggio in popup](https://www.aspitalia.com/script/1388/Gestire-Errore-HTTP-Blazor-Mostrando-Messaggio-Popup.aspx)
 - [Utilizzare la nuova sintassi new per istanziare un oggetto in C#](https://www.winfxitalia.com/script/559/Utilizzare-Sintassi-New-Istanziare-Oggetto-CSharp.aspx)
 - [Il controllo XAML SwitchPresenter nella Universal Windows Platform](https://www.winrtitalia.com/script/266/Controllo-XAML-SwitchPresenter-Universal-Windows-Platform.aspx)
-- [Cancellare automaticamente una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/36/Cancellare-Automaticamente-Pipeline-YAML-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
