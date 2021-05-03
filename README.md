@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Attivare la localizzazione in Blazor WebAssembly](https://www.aspitalia.com/script/1389/Attivare-Localizzazione-Blazor-WebAssembly.aspx)
 - [Canary deployment con le pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/38/Canary-Deployment-Pipeline-YAML-Azure-DevOps.aspx)
 - [Eseguire ripetutamente uno script in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/37/Eseguire-Ripetutamente-Script-Pipeline-Azure-DevOps.aspx)
 - [Recuperare la tipologia di contenuto di una stringa con la Universal Windows Platform](https://www.winrtitalia.com/script/267/Recuperare-Tipologia-Contenuto-Stringa-Universal-Windows-Platform.aspx)
-- [Blazor Conference 2021 - Online](https://www.aspitalia.com/eventi/87/Blazor-Conference-2021-Online.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
