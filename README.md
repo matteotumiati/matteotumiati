@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Eseguire processi multi-piattaforma con le pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/39/Eseguire-Processi-Multipiattaforma-Pipeline-YAML-Azure-DevOps.aspx)
 - [Usare le user-defined function con Azure Cosmos DB](https://www.cloudnativeitalia.com/script/205/Usare-Userdefined-Function-Azure-Cosmos-DB.aspx)
 - [Attivare la localizzazione in Blazor WebAssembly](https://www.aspitalia.com/script/1389/Attivare-Localizzazione-Blazor-WebAssembly.aspx)
 - [Canary deployment con le pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/38/Canary-Deployment-Pipeline-YAML-Azure-DevOps.aspx)
-- [Eseguire ripetutamente uno script in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/37/Eseguire-Ripetutamente-Script-Pipeline-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
