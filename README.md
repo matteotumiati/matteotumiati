@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Amministrare gli utenti Azure B2C con .NET](https://www.cloudnativeitalia.com/script/207/Amministrare-Utenti-Azure-B2C-.NET.aspx)
 - [Generare un URL strongly typed con parametri in Blazor](https://www.aspitalia.com/script/1391/Generare-URL-Strongly-Typed-Parametri-Blazor.aspx)
 - [Eseguire una pipeline YAML di Azure DevOps in un container](https://www.dopsitalia.com/script/40/Eseguire-Pipeline-YAML-Azure-DevOps-Container.aspx)
 - [Creare link fortemente tipizzati in Blazor](https://www.aspitalia.com/script/1390/Creare-Link-Fortemente-Tipizzati-Blazor.aspx)
-- [Ottimizzare l&#39;uso di memoria usando le static anonymous function in C#](https://www.winfxitalia.com/script/561/Ottimizzare-Uso-Memoria-Usando-Static-Anonymous-Function-CSharp.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
