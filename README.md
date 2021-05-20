@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Eseguire un service container in una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/41/Eseguire-Service-Container-Pipeline-YAML-Azure-DevOps.aspx)
 - [Amministrare gli utenti Azure B2C con .NET](https://www.cloudnativeitalia.com/script/207/Amministrare-Utenti-Azure-B2C-.NET.aspx)
 - [Generare un URL strongly typed con parametri in Blazor](https://www.aspitalia.com/script/1391/Generare-URL-Strongly-Typed-Parametri-Blazor.aspx)
 - [Eseguire una pipeline YAML di Azure DevOps in un container](https://www.dopsitalia.com/script/40/Eseguire-Pipeline-YAML-Azure-DevOps-Container.aspx)
-- [Creare link fortemente tipizzati in Blazor](https://www.aspitalia.com/script/1390/Creare-Link-Fortemente-Tipizzati-Blazor.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
