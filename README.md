@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Supportare route multiple nella generazione di URL in Blazor](https://www.aspitalia.com/script/1392/Supportare-Route-Multiple-Generazione-URL-Blazor.aspx)
 - [Gestire il polimorfismo nella serializzazione con System.Text.Json](https://www.winfxitalia.com/script/563/Gestire-Polimorfismo-Serializzazione-System.Text.Json.aspx)
 - [Eseguire un service container in una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/41/Eseguire-Service-Container-Pipeline-YAML-Azure-DevOps.aspx)
 - [Amministrare gli utenti Azure B2C con .NET](https://www.cloudnativeitalia.com/script/207/Amministrare-Utenti-Azure-B2C-.NET.aspx)
-- [Generare un URL strongly typed con parametri in Blazor](https://www.aspitalia.com/script/1391/Generare-URL-Strongly-Typed-Parametri-Blazor.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
