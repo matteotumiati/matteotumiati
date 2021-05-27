@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Esecuzione a matrici nelle pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/42/Esecuzione-Matrici-Pipeline-YAML-Azure-DevOps.aspx)
+- [Recuperare i dispositivi connessi in tethering con la Universal Windows Platform](https://www.winrtitalia.com/script/268/Recuperare-Dispositivi-Connessi-Tethering-Universal-Windows-Platform.aspx)
 - [Creare una Azure Web App tramite ARM](https://www.cloudnativeitalia.com/script/208/Creare-Azure-Web-App-Tramite-ARM.aspx)
 - [Supportare route multiple nella generazione di URL in Blazor](https://www.aspitalia.com/script/1392/Supportare-Route-Multiple-Generazione-URL-Blazor.aspx)
-- [Gestire il polimorfismo nella serializzazione con System.Text.Json](https://www.winfxitalia.com/script/563/Gestire-Polimorfismo-Serializzazione-System.Text.Json.aspx)
-- [Eseguire un service container in una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/41/Eseguire-Service-Container-Pipeline-YAML-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
