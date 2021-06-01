@@ -50,8 +50,8 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#362](https://github.com/microsoft/azure-pipelines-yaml/pull/362) in [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml)
-2. ❌ Closed PR [#362](https://github.com/microsoft/azure-pipelines-yaml/pull/362) in [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml)
+1. ❗️ Opened issue [#14913](https://github.com/microsoft/azure-pipelines-tasks/issues/14913) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+2. ❌ Reopened PR [#362](https://github.com/microsoft/azure-pipelines-yaml/pull/362) in [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml)
 <!--END_SECTION:activity-->
 
 </details>
