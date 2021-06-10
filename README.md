@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [.NET Serverless Day - Online](https://www.aspitalia.com/eventi/89/.NET-Serverless-Day-Online.aspx)
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [GitHub Codespaces con un repository di Azure DevOps](https://www.dopsitalia.com/script/43/GitHub-Codespaces-Repository-Azure-DevOps.aspx)
 - [Monitorare i costi di Azure con i budget](https://www.cloudnativeitalia.com/script/209/Monitorare-Costi-Azure-Budget.aspx)
 - [Esecuzione a matrici nelle pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/42/Esecuzione-Matrici-Pipeline-YAML-Azure-DevOps.aspx)
-- [Recuperare i dispositivi connessi in tethering con la Universal Windows Platform](https://www.winrtitalia.com/script/268/Recuperare-Dispositivi-Connessi-Tethering-Universal-Windows-Platform.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
