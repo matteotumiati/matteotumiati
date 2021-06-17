@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [.NET Serverless Day - Online](https://www.aspitalia.com/eventi/89/.NET-Serverless-Day-Online.aspx)
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Calcolare automaticamente un numero di versione di un repository in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/44/Calcolare-Automaticamente-Numero-Versione-Repository-Pipeline-Azure-DevOps.aspx)
 - [Versioning dei pacchetti NuGet in Visual Studio 2019](https://www.aspitalia.com/script/1394/Versioning-Pacchetti-NuGet-Visual-Studio-2019.aspx)
 - [Gestire il polimorfismo delle propriet&#224; durante la serializzazione con System.Text.Json](https://www.winfxitalia.com/script/565/Gestire-Polimorfismo-Proprieta-Serializzazione-System.Text.Json.aspx)
-- [GitHub Codespaces con un repository di Azure DevOps](https://www.dopsitalia.com/script/43/GitHub-Codespaces-Repository-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
