@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [.NET Serverless Day - Online](https://www.aspitalia.com/eventi/89/.NET-Serverless-Day-Online.aspx)
 - [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
+- [Versionare automaticamente un file di progetto .NET Core con una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/45/Versionare-Automaticamente-File-Progetto-.NET-Core-Pipeline-YAML-Azure.aspx)
 - [Creare un Azure Storage account tramite ARM](https://www.cloudnativeitalia.com/script/210/Creare-Azure-Storage-Account-Tramite-ARM.aspx)
 - [Dependency injection nei componenti di Blazor](https://www.aspitalia.com/script/1395/Dependency-Injection-Componenti-Blazor.aspx)
-- [Calcolare automaticamente un numero di versione di un repository in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/44/Calcolare-Automaticamente-Numero-Versione-Repository-Pipeline-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
