@@ -32,10 +32,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [AI&amp;ML Conf 2021 - Online](https://www.aspitalia.com/eventi/90/AI-ML-Conf-2021-Online.aspx)
+- [@amelchiori tra poco su azure functions on kubernetes with keda: https://aspit.co/ServerlessDay #aspilive #serverless #azure #kubernets #aks](https://twitter.aspitalia.com/5827)
+- [serverless computing: taking devops to the next level con @xTuMiOx ora live: https://aspit.co/ServerlessDay #aspilive #serverless #devops](https://twitter.aspitalia.com/5826)
+- [stiamo per partire con #aspilive .NET Serverless Day, con @dbochicchio, @cristiancivera e @kasuken
+https://aspit.co/ServerlessDay #azure #aws #serverless #dotnet](https://twitter.aspitalia.com/5825)
 - [.NET Serverless Day - Online](https://www.aspitalia.com/eventi/89/.NET-Serverless-Day-Online.aspx)
-- [Gestire il polimorfismo nella serializzazione usando un converter con System.Text.Json](https://www.winfxitalia.com/script/567/Gestire-Polimorfismo-Serializzazione-Usando-Converter-System.Text.Json.aspx)
-- [Community Days 2021 - Online](https://www.aspitalia.com/eventi/88/Community-Days-2021-Online.aspx)
-- [Versionare automaticamente un file di progetto .NET Core con una pipeline YAML di Azure DevOps](https://www.dopsitalia.com/script/45/Versionare-Automaticamente-File-Progetto-.NET-Core-Pipeline-YAML-Azure.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
