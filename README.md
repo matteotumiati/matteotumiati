@@ -36,7 +36,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 - [serverless computing: taking devops to the next level con @xTuMiOx ora live: https://aspit.co/ServerlessDay #aspilive #serverless #devops](https://twitter.aspitalia.com/5826)
 - [stiamo per partire con #aspilive .NET Serverless Day, con @dbochicchio, @cristiancivera e @kasuken
 https://aspit.co/ServerlessDay #azure #aws #serverless #dotnet](https://twitter.aspitalia.com/5825)
-- [.NET Serverless Day - Online](https://www.aspitalia.com/eventi/89/.NET-Serverless-Day.aspx)
+- [.NET Serverless Day - Online](https://www.aspitalia.com/eventi/89/.NET-Serverless-Day-Online.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
