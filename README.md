@@ -31,12 +31,12 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
 - [AI&amp;ML Conf 2021 - Online](https://www.aspitalia.com/eventi/90/AI-ML-Conf-2021-Online.aspx)
 - [@amelchiori tra poco su azure functions on kubernetes with keda: https://aspit.co/ServerlessDay #aspilive #serverless #azure #kubernets #aks](https://twitter.aspitalia.com/5827)
 - [serverless computing: taking devops to the next level con @xTuMiOx ora live: https://aspit.co/ServerlessDay #aspilive #serverless #devops](https://twitter.aspitalia.com/5826)
 - [stiamo per partire con #aspilive .NET Serverless Day, con @dbochicchio, @cristiancivera e @kasuken
 https://aspit.co/ServerlessDay #azure #aws #serverless #dotnet](https://twitter.aspitalia.com/5825)
-- [.NET Serverless Day - Online](https://www.aspitalia.com/eventi/89/.NET-Serverless-Day-Online.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
