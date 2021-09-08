@@ -52,8 +52,6 @@ https://aspit.co/ServerlessDay #azure #aws #serverless #dotnet](https://twitter.
   
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->
-
 </details>
 
 [website]: https://www.dopsitalia.com/
