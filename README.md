@@ -33,10 +33,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
 - [AI&amp;ML Conf 2021 - Online](https://www.aspitalia.com/eventi/90/AI-ML-Conf-2021-Online.aspx)
-- [@amelchiori tra poco su azure functions on kubernetes with keda: https://aspit.co/ServerlessDay #aspilive #serverless #azure #kubernets #aks](https://twitter.aspitalia.com/5827)
-- [serverless computing: taking devops to the next level con @xTuMiOx ora live: https://aspit.co/ServerlessDay #aspilive #serverless #devops](https://twitter.aspitalia.com/5826)
-- [stiamo per partire con #aspilive .NET Serverless Day, con @dbochicchio, @cristiancivera e @kasuken
-https://aspit.co/ServerlessDay #azure #aws #serverless #dotnet](https://twitter.aspitalia.com/5825)
+- [sono finalmente online le registrazioni del #serverless day: https://aspit.co/ServerlessDay
+#azure #azurefunctions #aws #awslambdas #keda #devops](https://twitter.aspitalia.com/5843)
+- [AI e Azure Function per la comprensione delle immagini](https://media.aspitalia.com/events/serverlessconf21-ai-azure-images.media)
+- [It&#39;s a (.NET) Serverless World](https://media.aspitalia.com/events/serverlessconf21-azure-functions-aws-lambdas.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
