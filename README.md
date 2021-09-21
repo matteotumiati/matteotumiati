@@ -33,10 +33,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
 - [AI&amp;ML Conf 2021 - Online](https://www.aspitalia.com/eventi/90/AI-ML-Conf-2021-Online.aspx)
+- [Associare Application Insights ad una Web App tramite Azure ARM](https://www.cloudnativeitalia.com/script/211/Associare-Application-Insights-Web-App-Tramite-Azure-ARM.aspx)
 - [Eseguire task temporizzati tramite hosted service in ASP.NET Core](https://www.aspitalia.com/script/1396/Eseguire-Task-Temporizzati-Tramite-Hosted-Service-ASP.NET-Core.aspx)
 - [sono finalmente online le registrazioni del #serverless day: https://aspit.co/ServerlessDay
 #azure #azurefunctions #aws #awslambdas #keda #devops](https://twitter.aspitalia.com/5843)
-- [AI e Azure Function per la comprensione delle immagini](https://media.aspitalia.com/events/serverlessconf21-ai-azure-images.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
