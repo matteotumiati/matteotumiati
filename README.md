@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
 - [AI&amp;ML Conf 2021 - Online](https://www.aspitalia.com/eventi/90/AI-ML-Conf-2021-Online.aspx)
+- [Serializzare un enum come stringa con System.Text.Json](https://www.winfxitalia.com/script/569/Serializzare-Enum-Stringa-System.Text.Json.aspx)
 - [Compilare un&#39;applicazione .NET Core con una GitHub Action](https://www.dopsitalia.com/script/46/Compilare-Applicazione-.NET-Core-GitHub-Action.aspx)
 - [Associare Application Insights ad una Web App tramite Azure ARM](https://www.cloudnativeitalia.com/script/211/Associare-Application-Insights-Web-App-Tramite-Azure-ARM.aspx)
-- [Eseguire task temporizzati tramite hosted service in ASP.NET Core](https://www.aspitalia.com/script/1396/Eseguire-Task-Temporizzati-Tramite-Hosted-Service-ASP.NET-Core.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
