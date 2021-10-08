@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
+- [Ottimizzare il json generato dalla serializzazione con System.Text.Json eliminando i valori non necessari](https://www.winfxitalia.com/script/572/Ottimizzare-Json-Generato-Serializzazione-System.Text.Json-Eliminando-Valori-Necessari.aspx)
 - [Aggiungere pi&#249; autori in un commit di Git](https://www.dopsitalia.com/script/48/Aggiungere-Autori-Commit-Git.aspx)
 - [Indicizzare e ricercare i blob di Azure Storage](https://www.cloudnativeitalia.com/script/213/Indicizzare-Ricercare-Blob-Azure-Storage.aspx)
 - [Graceful shutdown di un hosted service di ASP.NET Core](https://www.aspitalia.com/script/1398/Graceful-Shutdown-Hosted-Service-ASP.NET-Core.aspx)
-- [AI&amp;ML Conf 2021 - Online](https://www.aspitalia.com/eventi/90/AI-ML-Conf-2021-Online.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
