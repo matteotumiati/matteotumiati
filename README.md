@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
+- [Tenere sotto controllo la working directory di un self-hosted agent di Azure DevOps](https://www.dopsitalia.com/script/49/Tenere-Controllo-Working-Directory-Selfhosted-Agent-Azure-DevOps.aspx)
 - [Personalizzare la creazione dell&#39;utenze Azure B2C tramite API connector](https://www.cloudnativeitalia.com/script/214/Personalizzare-Creazione-Utenze-Azure-B2C-Tramite-API-Connector.aspx)
 - [Avviare e arrestare programmaticamente un Hosted Service di ASP.NET Core](https://www.aspitalia.com/script/1399/Avviare-Arrestare-Programmaticamente-Hosted-Service-ASP.NET-Core.aspx)
 - [Ottimizzare il json generato dalla serializzazione con System.Text.Json eliminando i valori non necessari](https://www.winfxitalia.com/script/572/Ottimizzare-Json-Generato-Serializzazione-System.Text.Json-Eliminando-Valori-Necessari.aspx)
-- [Aggiungere pi&#249; autori in un commit di Git](https://www.dopsitalia.com/script/48/Aggiungere-Autori-Commit-Git.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
