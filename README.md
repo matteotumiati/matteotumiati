@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
+- [Forzare la lingua dell&#39;interfaccia di Azure Active Directory B2C](https://www.cloudnativeitalia.com/script/215/Forzare-Lingua-Interfaccia-Azure-Active-Directory-B2C.aspx)
 - [Impostare il claim desiderato per il nome utente in ASP.NET Core con Microsoft Identity](https://www.aspitalia.com/script/1400/Impostare-Claim-Desiderato-Nome-Utente-ASP.NET-Core-Microsoft-Identity.aspx)
 - [Tenere sotto controllo la working directory di un self-hosted agent di Azure DevOps](https://www.dopsitalia.com/script/49/Tenere-Controllo-Working-Directory-Selfhosted-Agent-Azure-DevOps.aspx)
 - [Personalizzare la creazione dell&#39;utenze Azure B2C tramite API connector](https://www.cloudnativeitalia.com/script/214/Personalizzare-Creazione-Utenze-Azure-B2C-Tramite-API-Connector.aspx)
-- [Avviare e arrestare programmaticamente un Hosted Service di ASP.NET Core](https://www.aspitalia.com/script/1399/Avviare-Arrestare-Programmaticamente-Hosted-Service-ASP.NET-Core.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
