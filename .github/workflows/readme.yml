@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update:
     name: Update repo README
     runs-on: ubuntu-latest
     
@@ -18,9 +18,9 @@ jobs:
         comment_tag_name: "BLOG-POSTS"
         feed_list: "https://www.aspitalia.com/my/feed.aspx?k=akXGpKy7IvI%3d"
 
-    - name: Add activity to readme
-      uses: Readme-Workflows/recent-activity@main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        CONFIG_FILE: "recent-activity.config.yml"
+    #- name: Add activity to readme
+    #  uses: Readme-Workflows/recent-activity@main
+    #  env:
+    #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #  with:
+    #    CONFIG_FILE: "recent-activity.config.yml"
