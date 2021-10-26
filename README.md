@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
+- [Creare Azure Function con supporto a OpenAPI](https://www.cloudnativeitalia.com/script/216/Creare-Azure-Function-Supporto-OpenAPI.aspx)
 - [Gestire query string lunghe in ASP.NET Core](https://www.aspitalia.com/script/1401/Gestire-Query-String-Lunghe-ASP.NET-Core.aspx)
 - [Impostare l&#39;hostname di un&#39;immagine docker per rendere il container da altri container in Visual Studio](https://www.winfxitalia.com/script/574/Impostare-Hostname-Immagine-Docker-Rendere-Container-Container-Visual-Studio.aspx)
 - [Supporto migliorato agli statement condizionali nelle pipeline di Azure DevOps](https://www.dopsitalia.com/script/50/Supporto-Migliorato-Statement-Condizionali-Pipeline-Azure-DevOps.aspx)
-- [Forzare la lingua dell&#39;interfaccia di Azure Active Directory B2C](https://www.cloudnativeitalia.com/script/215/Forzare-Lingua-Interfaccia-Azure-Active-Directory-B2C.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
