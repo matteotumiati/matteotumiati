@@ -49,8 +49,13 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
 
-<!--START_SECTION:activity-->  
-<!--END_SECTION:activity-->
+  <!--START_SECTION:activity-->  
+
+  <!--RECENT_ACTIVITY:start-->
+
+  <!--RECENT_ACTIVITY:last_update-->
+
+  <!--END_SECTION:activity-->
 
 </details>
 
