@@ -18,9 +18,6 @@ jobs:
         comment_tag_name: "BLOG-POSTS"
         feed_list: "https://www.aspitalia.com/my/feed.aspx?k=akXGpKy7IvI%3d"
 
-    #- name: Add activity to readme
-    #  uses: Readme-Workflows/recent-activity@main
-    #  env:
-    #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #  with:
-    #    CONFIG_FILE: "recent-activity.config.yml"
+    - uses: jamesgeorge007/github-activity-readme@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
