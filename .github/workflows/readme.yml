@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
         
-    - uses: gautamkrishnar/blog-post-workflow@2
+    - uses: gautamkrishnar/blog-post-workflow@v1.6.1
       with:
         comment_tag_name: "BLOG-POSTS"
         feed_list: "https://www.aspitalia.com/my/feed.aspx?k=akXGpKy7IvI%3d"
