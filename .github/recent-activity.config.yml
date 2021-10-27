@@ -2,7 +2,7 @@ settings:
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
   readme_file: "./README.md"
-  disabled_events: [comments, create_repo, fork, issue, member, pr, release, review, star, wiki]
+  disabled_events: [ comments, create_repo, fork ]
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
