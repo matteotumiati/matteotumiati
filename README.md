@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
+- [Eseguire manualmente una GitHub Action](https://www.dopsitalia.com/script/53/Eseguire-Manualmente-GitHub-Action.aspx)
 - [Reagire alle modifiche della configurazione di ASP.NET Core](https://www.aspitalia.com/script/1403/Reagire-Modifiche-Configurazione-ASP.NET-Core.aspx)
 - [Conversione di tipo in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/52/Conversione-Tipo-Pipeline-Azure-DevOps.aspx)
 - [Utilizzare .NET 6 con le Azure Function](https://www.cloudnativeitalia.com/script/217/Utilizzare-.NET-Azure-Function.aspx)
-- [Generare un QR Code da ASP.NET Web API](https://www.aspitalia.com/script/1402/Generare-QR-Code-ASP.NET-Web-API.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
