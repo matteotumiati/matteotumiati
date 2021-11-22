@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [RBAC in Kubernetes verso gli operator](https://blogs.aspitalia.com/az/post2902/RBAC-Kubernetes-Operator.aspx)
 - [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
 - [Eseguire manualmente una GitHub Action](https://www.dopsitalia.com/script/53/Eseguire-Manualmente-GitHub-Action.aspx)
 - [Reagire alle modifiche della configurazione di ASP.NET Core](https://www.aspitalia.com/script/1403/Reagire-Modifiche-Configurazione-ASP.NET-Core.aspx)
 - [Conversione di tipo in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/52/Conversione-Tipo-Pipeline-Azure-DevOps.aspx)
-- [Utilizzare .NET 6 con le Azure Function](https://www.cloudnativeitalia.com/script/217/Utilizzare-.NET-Azure-Function.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
