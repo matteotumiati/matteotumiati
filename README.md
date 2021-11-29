@@ -31,13 +31,13 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Usare l&#39;option pattern per gestire la configurazione in ASP.NET Core](https://www.aspitalia.com/script/1404/Usare-Option-Pattern-Gestire-Configurazione-ASP.NET-Core.aspx)
+- [Operator per Kubernetes in C# e Net Core 6.](https://blogs.aspitalia.com/az/post2903/Operator-Kubernetes-CSharp-Net-Core-6.aspx)
 - [Tutti i video di #netconfit sono disponibili online =&gt; https://aspit.co/netconf-21
 
 Buona visione! #dotnet6 #aspnetcore #blazor #efcore6 #maui #aws #azure #vs2022](https://twitter.aspitalia.com/5916)
 - [GitHub e .NET 6](https://media.aspitalia.com/events/netconf21-github-dotnet6.media)
 - [RBAC in Kubernetes verso gli operator](https://blogs.aspitalia.com/az/post2902/RBAC-Kubernetes-Operator.aspx)
-- [.NET Conference Italia 2021 - Online](https://www.aspitalia.com/eventi/91/.NET-Conference-Italia-2021-Online.aspx)
-- [Eseguire manualmente una GitHub Action](https://www.dopsitalia.com/script/53/Eseguire-Manualmente-GitHub-Action.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
