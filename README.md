@@ -62,7 +62,7 @@ Buona visione! #dotnet6 #aspnetcore #blazor #efcore6 #maui #aws #azure #vs2022](
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 30th, 2021, 10:16:57 AM
+Last Updated: Wednesday, December 1st, 2021, 10:20:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
