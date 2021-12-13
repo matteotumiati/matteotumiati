@@ -31,13 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Configuration strongly typed anche per singleton con IOptionsMonitor in ASP.NET Core](https://www.aspitalia.com/script/1405/Configuration-Strongly-Typed-Singleton-IOptionsMonitor-ASP.NET-Core.aspx)
 - [Retry automatico di un task di una pipeline di Azure DevOps](https://www.dopsitalia.com/script/54/Retry-Automatico-Task-Pipeline-Azure-DevOps.aspx)
 - [Scaling per app con Azure App Service](https://www.cloudnativeitalia.com/script/219/Scaling-App-Azure-App-Service.aspx)
 - [Usare l&#39;option pattern per gestire la configurazione in ASP.NET Core](https://www.aspitalia.com/script/1404/Usare-Option-Pattern-Gestire-Configurazione-ASP.NET-Core.aspx)
 - [Operator per Kubernetes in C# e Net Core 6.](https://blogs.aspitalia.com/az/post2903/Operator-Kubernetes-CSharp-Net-Core-6.aspx)
-- [Tutti i video di #netconfit sono disponibili online =&gt; https://aspit.co/netconf-21
-
-Buona visione! #dotnet6 #aspnetcore #blazor #efcore6 #maui #aws #azure #vs2022](https://twitter.aspitalia.com/5916)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
