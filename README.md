@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Provando Kaniko in Kubernetes come alternativa a Docker per la creazione di immagini](https://blogs.aspitalia.com/az/post2905/Provando-Kaniko-Kubernetes-Alternativa-Docker-Creazione-Immagini.aspx)
 - [Modificare una variabile d&#39;ambiente di un deployment di Kubernetes](https://www.dopsitalia.com/script/55/Modificare-Variabile-Dambiente-Deployment-Kubernetes.aspx)
 - [Migrare da Azure DevOps a GitHub](https://www.dopsitalia.com/articoli/DevOps/azdo-to-github.aspx)
 - [Integrare e trasformare dati con Azure Data Factory](https://www.cloudnativeitalia.com/articoli/aws/integrare-trasformare-dati-azure-data-factory.aspx)
 - [Integrare e trasformare dati con Azure Data Factory](https://www.cloudnativeitalia.com/articoli/microsoft-azure/integrare-trasformare-dati-azure-data-factory.aspx)
-- [Utilizzare SFTP con Azure Storage Blob](https://www.cloudnativeitalia.com/script/220/Utilizzare-SFTP-Azure-Storage-Blob.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
