@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Calcolare automaticamente un numero di versione di un repository in una GitHub Action](https://www.dopsitalia.com/script/56/Calcolare-Automaticamente-Numero-Versione-Repository-GitHub-Action.aspx)
 - [Introduzione a Azure Container Apps](https://www.cloudnativeitalia.com/articoli/microsoft-azure/introduzione-azure-container-apps.aspx)
 - [C# e Net 6 in Kubernetes con Prometheus e Grafana](https://blogs.aspitalia.com/az/post2907/CSharp-Net-Kubernetes-Prometheus-Grafana.aspx)
 - [Snaturare Kubernetes evitando i custom container Docker](https://blogs.aspitalia.com/az/post2906/Snaturare-Kubernetes-Evitando-Custom-Container-Docker.aspx)
 - [Provando Kaniko in Kubernetes come alternativa a Docker per la creazione di immagini](https://blogs.aspitalia.com/az/post2905/Provando-Kaniko-Kubernetes-Alternativa-Docker-Creazione-Immagini.aspx)
-- [Modificare una variabile d&#39;ambiente di un deployment di Kubernetes](https://www.dopsitalia.com/script/55/Modificare-Variabile-Dambiente-Deployment-Kubernetes.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
