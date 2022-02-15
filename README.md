@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Ottimizzare la concorrenza dinamicamente con le Azure Function](https://www.cloudnativeitalia.com/script/223/Ottimizzare-Concorrenza-Dinamicamente-Azure-Function.aspx)
 - [Estensione del markdown in GitHub](https://www.dopsitalia.com/script/59/Estensione-Markdown-GitHub.aspx)
 - [Effettuare un deployment differenziale con una GitHub Action](https://www.dopsitalia.com/script/58/Effettuare-Deployment-Differenziale-GitHub-Action.aspx)
 - [Certificati TLS gestiti con Azure API Management](https://www.cloudnativeitalia.com/script/222/Certificati-TLS-Gestiti-Azure-API-Management.aspx)
 - [Comprimere le immagini contenute in un repository con una GitHub Action](https://www.dopsitalia.com/script/57/Comprimere-Immagini-Contenute-Repository-GitHub-Action.aspx)
-- [Impostare un promemoria per ruotare le chiavi di Azure Storage](https://www.cloudnativeitalia.com/script/221/Impostare-Promemoria-Ruotare-Chiavi-Azure-Storage.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
