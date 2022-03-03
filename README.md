@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Code reviewers as code in GitHub](https://www.dopsitalia.com/script/62/Code-Reviewers-AS-Code-GitHub.aspx)
 - [Utilizzare WordPress con Azure App Service](https://www.cloudnativeitalia.com/script/225/Utilizzare-WordPress-Azure-App-Service.aspx)
 - [Bypassare l&#39;esecuzione di una GitHub Action su branch protetti](https://www.dopsitalia.com/script/61/Bypassare-Esecuzione-GitHub-Action-Branch-Protetti.aspx)
 - [Creare un&#39;istanza di Azure SQL Database tramite ARM](https://www.cloudnativeitalia.com/script/224/Creare-Istanza-Azure-SQL-Database-Tramite-ARM.aspx)
 - [Gestire gli errori in un servizio gRPC di ASP.NET Core](https://www.aspitalia.com/script/1411/Gestire-Errori-Servizio-GRPC-ASP.NET-Core.aspx)
-- [Esecuzione a matrici nei workflow di GitHub Action](https://www.dopsitalia.com/script/60/Esecuzione-Matrici-Workflow-GitHub-Action.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
