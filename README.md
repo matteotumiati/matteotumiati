@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Scoprire cosa succede in un layer di un Dockerfile](https://www.dopsitalia.com/script/63/Scoprire-Succede-Layer-Dockerfile.aspx)
 - [Utilizzare azurite come simulatore di Azure Storage](https://www.cloudnativeitalia.com/script/226/Utilizzare-Azurite-Simulatore-Azure-Storage.aspx)
 - [Code reviewers as code in GitHub](https://www.dopsitalia.com/script/62/Code-Reviewers-AS-Code-GitHub.aspx)
 - [Utilizzare WordPress con Azure App Service](https://www.cloudnativeitalia.com/script/225/Utilizzare-WordPress-Azure-App-Service.aspx)
 - [Bypassare l&#39;esecuzione di una GitHub Action su branch protetti](https://www.dopsitalia.com/script/61/Bypassare-Esecuzione-GitHub-Action-Branch-Protetti.aspx)
-- [Creare un&#39;istanza di Azure SQL Database tramite ARM](https://www.cloudnativeitalia.com/script/224/Creare-Istanza-Azure-SQL-Database-Tramite-ARM.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
