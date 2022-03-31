@@ -31,11 +31,13 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
+- [torniamo il 26/05 con un nuovo format, dedicato a tutti gli sviluppatori: non perdete la nostra devConf!
+Call for Paper e iscrizioni aperte! https://aspit.co/devconf-22
+#azure #dotnet #aws #docker #angular #react #devops #vuejs](https://twitter.aspitalia.com/6003)
+- [Effettuare un loop di una GitHub Action](https://www.dopsitalia.com/script/66/Effettuare-Loop-GitHub-Action.aspx)
 - [Produrre un inventario automatico di Azure Storage](https://www.cloudnativeitalia.com/script/227/Produrre-Inventario-Automatico-Azure-Storage.aspx)
 - [Generare le release note automaticamente tramite una GitHub Action](https://www.dopsitalia.com/script/65/Generare-Release-Note-Automaticamente-Tramite-GitHub-Action.aspx)
-- [Integrare dive nelle pipeline di Azure DevOps e GitHub](https://www.dopsitalia.com/script/64/Integrare-Dive-Pipeline-Azure-DevOps-GitHub.aspx)
-- [Scoprire cosa succede in un layer di un Dockerfile](https://www.dopsitalia.com/script/63/Scoprire-Succede-Layer-Dockerfile.aspx)
-- [Utilizzare azurite come simulatore di Azure Storage](https://www.cloudnativeitalia.com/script/226/Utilizzare-Azurite-Simulatore-Azure-Storage.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
