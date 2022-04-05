@@ -32,12 +32,12 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
+- [Utilizzare Front Door come CDN di contenuti statici](https://www.cloudnativeitalia.com/script/228/Utilizzare-Front-Door-CDN-Contenuti-Statici.aspx)
 - [torniamo il 26/05 con un nuovo format, dedicato a tutti gli sviluppatori: non perdete la nostra devConf!
 Call for Paper e iscrizioni aperte! https://aspit.co/devconf-22
 #azure #dotnet #aws #docker #angular #react #devops #vuejs](https://twitter.aspitalia.com/6003)
 - [Effettuare un loop di una GitHub Action](https://www.dopsitalia.com/script/66/Effettuare-Loop-GitHub-Action.aspx)
 - [Produrre un inventario automatico di Azure Storage](https://www.cloudnativeitalia.com/script/227/Produrre-Inventario-Automatico-Azure-Storage.aspx)
-- [Generare le release note automaticamente tramite una GitHub Action](https://www.dopsitalia.com/script/65/Generare-Release-Note-Automaticamente-Tramite-GitHub-Action.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
