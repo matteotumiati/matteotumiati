@@ -62,7 +62,7 @@ Call for Paper e iscrizioni aperte! https://aspit.co/devconf-22
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 7th, 2022, 10:04:48 AM
+Last Updated: Friday, April 8th, 2022, 10:05:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
