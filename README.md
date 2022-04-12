@@ -32,12 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
+- [Filtrare le chiamate HTTP ad un App Service in base al servizio Azure](https://www.cloudnativeitalia.com/script/229/Filtrare-Chiamate-HTTP-App-Service-Base-Servizio-Azure.aspx)
 - [Eseguire uno scroll all&#39;interno di una pagina Blazor](https://www.aspitalia.com/script/1418/Eseguire-Scroll-Interno-Pagina-Blazor.aspx)
 - [Commentare una issue associata ad una pull request tramite un workflow di GitHub](https://www.dopsitalia.com/script/67/Commentare-Issue-Associata-Pull-Request-Tramite-Workflow-GitHub.aspx)
 - [Utilizzare Front Door come CDN di contenuti statici](https://www.cloudnativeitalia.com/script/228/Utilizzare-Front-Door-CDN-Contenuti-Statici.aspx)
-- [torniamo il 26/05 con un nuovo format, dedicato a tutti gli sviluppatori: non perdete la nostra devConf!
-Call for Paper e iscrizioni aperte! https://aspit.co/devconf-22
-#azure #dotnet #aws #docker #angular #react #devops #vuejs](https://twitter.aspitalia.com/6003)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
