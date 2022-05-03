@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
+- [Eliminare spazio inutilizzato in un Azure Container Registry](https://www.cloudnativeitalia.com/script/230/Eliminare-Spazio-Inutilizzato-Azure-Container-Registry.aspx)
 - [Creare automaticamente una pipeline YAML da una sua definizione in Azure DevOps](https://www.dopsitalia.com/script/68/Creare-Automaticamente-Pipeline-YAML-Definizione-Azure-DevOps.aspx)
 - [Filtrare le chiamate HTTP ad un App Service in base al servizio Azure](https://www.cloudnativeitalia.com/script/229/Filtrare-Chiamate-HTTP-App-Service-Base-Servizio-Azure.aspx)
 - [Eseguire uno scroll all&#39;interno di una pagina Blazor](https://www.aspitalia.com/script/1418/Eseguire-Scroll-Interno-Pagina-Blazor.aspx)
-- [Commentare una issue associata ad una pull request tramite un workflow di GitHub](https://www.dopsitalia.com/script/67/Commentare-Issue-Associata-Pull-Request-Tramite-Workflow-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
