@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
+- [Terraform e Kubernetes](https://blogs.aspitalia.com/az/post2912/Terraform-Kubernetes.aspx)
 - [Creare un job summary in una GitHub Action](https://www.dopsitalia.com/script/70/Creare-Job-Summary-GitHub-Action.aspx)
 - [Utilizzare il Service Bus Explorer integrato del portale Azure](https://www.cloudnativeitalia.com/script/231/Utilizzare-Service-Bus-Explorer-Integrato-Portale-Azure.aspx)
 - [Creare una timeline da una pipeline di Azure DevOps](https://www.dopsitalia.com/script/69/Creare-Timeline-Pipeline-Azure-DevOps.aspx)
-- [Eliminare spazio inutilizzato in un Azure Container Registry](https://www.cloudnativeitalia.com/script/230/Eliminare-Spazio-Inutilizzato-Azure-Container-Registry.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
