@@ -32,10 +32,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
+- [Agenda di #devconf22 del 26/05 quasi al completo! Ce n&#39;&#232; per tutti i gusti: #dotnet, #aspnetcore, #blazor, #terraform, #github
+Altre informazioni e iscrizioni su =&gt; https://aspit.co/devconf-22](https://twitter.aspitalia.com/6029)
 - [Terraform e Kubernetes](https://blogs.aspitalia.com/az/post2912/Terraform-Kubernetes.aspx)
 - [Creare un job summary in una GitHub Action](https://www.dopsitalia.com/script/70/Creare-Job-Summary-GitHub-Action.aspx)
 - [Utilizzare il Service Bus Explorer integrato del portale Azure](https://www.cloudnativeitalia.com/script/231/Utilizzare-Service-Bus-Explorer-Integrato-Portale-Azure.aspx)
-- [Creare una timeline da una pipeline di Azure DevOps](https://www.dopsitalia.com/script/69/Creare-Timeline-Pipeline-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
