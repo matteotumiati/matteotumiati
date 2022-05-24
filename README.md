@@ -61,7 +61,7 @@ Altre informazioni e iscrizioni su =&gt; https://aspit.co/devconf-22](https://tw
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 23rd, 2022, 10:05:12 AM
+Last Updated: Tuesday, May 24th, 2022, 10:05:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
