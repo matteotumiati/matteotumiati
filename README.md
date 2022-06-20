@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Chiamare un endpoint ASP.NET Core protetto da Certificate Authentication](https://www.aspitalia.com/script/1425/Chiamare-Endpoint-ASP.NET-Core-Protetto-Certificate-Authentication.aspx)
 - [Usare domini personalizzati con Azure Container App](https://www.cloudnativeitalia.com/script/234/Usare-Domini-Personalizzati-Azure-Container-App.aspx)
 - [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
 - [Accedere alla console di una Azure Container App](https://www.cloudnativeitalia.com/script/233/Accedere-Console-Azure-Container-App.aspx)
 - [Terraform, Kuberntes e AWS EKS](https://blogs.aspitalia.com/az/post2913/Terraform-Kuberntes-AWS-EKS.aspx)
-- [Log streaming di una Azure Container App](https://www.cloudnativeitalia.com/script/232/Log-Streaming-Azure-Container-App.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
