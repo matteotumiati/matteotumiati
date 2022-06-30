@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Azure Functions e OpenAPI: la coppia perfetta!](https://media.aspitalia.com/events/devconf12-AzureFunctions-OpenAPI.media)
+- [GitHub Actions e Terraform: l&#39;infrastruttura, dalla definizione al deploy](https://media.aspitalia.com/events/devconf12-github-terraform.media)
+- [Velocizzare l&#39;installazione delle dipendenze in un workflow di GitHub](https://www.dopsitalia.com/script/71/Velocizzare-Installazione-Dipendenze-Workflow-GitHub.aspx)
+- [Sviluppare applicazioni serverless con Azure Container Apps](https://media.aspitalia.com/events/devconf12-azure-container-apps.media)
 - [Chiamare un endpoint ASP.NET Core protetto da Certificate Authentication](https://www.aspitalia.com/script/1425/Chiamare-Endpoint-ASP.NET-Core-Protetto-Certificate-Authentication.aspx)
-- [Usare domini personalizzati con Azure Container App](https://www.cloudnativeitalia.com/script/234/Usare-Domini-Personalizzati-Azure-Container-App.aspx)
-- [devConf 2022 - Online](https://www.aspitalia.com/eventi/92/DevConf-2022-Online.aspx)
-- [Accedere alla console di una Azure Container App](https://www.cloudnativeitalia.com/script/233/Accedere-Console-Azure-Container-App.aspx)
-- [Terraform, Kuberntes e AWS EKS](https://blogs.aspitalia.com/az/post2913/Terraform-Kuberntes-AWS-EKS.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
