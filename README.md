@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [AWS, EKS, gestione domini e TLS con Ingress](https://blogs.aspitalia.com/az/post2920/AWS-EKS-Gestione-Domini-TLS-Ingress.aspx)
 - [Azure Functions e OpenAPI: la coppia perfetta!](https://media.aspitalia.com/events/devconf12-AzureFunctions-OpenAPI.media)
 - [GitHub Actions e Terraform: l&#39;infrastruttura, dalla definizione al deploy](https://media.aspitalia.com/events/devconf12-github-terraform.media)
 - [Velocizzare l&#39;installazione delle dipendenze in un workflow di GitHub](https://www.dopsitalia.com/script/71/Velocizzare-Installazione-Dipendenze-Workflow-GitHub.aspx)
 - [Sviluppare applicazioni serverless con Azure Container Apps](https://media.aspitalia.com/events/devconf12-azure-container-apps.media)
-- [Chiamare un endpoint ASP.NET Core protetto da Certificate Authentication](https://www.aspitalia.com/script/1425/Chiamare-Endpoint-ASP.NET-Core-Protetto-Certificate-Authentication.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
