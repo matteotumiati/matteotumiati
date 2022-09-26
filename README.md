@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Leggere i dati di configurazione di ASP.NET Core da Azure Key Vault](https://www.aspitalia.com/script/1426/Leggere-Dati-Configurazione-ASP.NET-Core-Azure-Key-Vault.aspx)
 - [AWS, EKS e Fluent Bit](https://blogs.aspitalia.com/az/post2922/AWS-EKS-Fluent-Bit.aspx)
 - [AWS, EKS, OIDC: accedere alla risorse di AWS da Kubernetes](https://blogs.aspitalia.com/az/post2921/AWS-EKS-OIDC-Accedere-Risorse-AWS-Kubernetes.aspx)
 - [AWS, EKS, gestione domini e TLS con Ingress](https://blogs.aspitalia.com/az/post2920/AWS-EKS-Gestione-Domini-TLS-Ingress.aspx)
 - [Azure Functions e OpenAPI: la coppia perfetta!](https://media.aspitalia.com/events/devconf12-AzureFunctions-OpenAPI.media)
-- [GitHub Actions e Terraform: l&#39;infrastruttura, dalla definizione al deploy](https://media.aspitalia.com/events/devconf12-github-terraform.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
