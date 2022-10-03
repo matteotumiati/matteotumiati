@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Impostare il forward degli header in un sito ASP.NET Core dietro a un reverse proxy](https://www.aspitalia.com/script/1427/Impostare-Forward-Header-Sito-ASP.NET-Core-Reverse-Proxy.aspx)
 - [Permettere l&#39;append ai file di un Azure Storage immutabile](https://www.cloudnativeitalia.com/script/235/Permettere-Append-File-Azure-Storage-Immutabile.aspx)
 - [Leggere i dati di configurazione di ASP.NET Core da Azure Key Vault](https://www.aspitalia.com/script/1426/Leggere-Dati-Configurazione-ASP.NET-Core-Azure-Key-Vault.aspx)
 - [AWS, EKS e Fluent Bit](https://blogs.aspitalia.com/az/post2922/AWS-EKS-Fluent-Bit.aspx)
 - [AWS, EKS, OIDC: accedere alla risorse di AWS da Kubernetes](https://blogs.aspitalia.com/az/post2921/AWS-EKS-OIDC-Accedere-Risorse-AWS-Kubernetes.aspx)
-- [AWS, EKS, gestione domini e TLS con Ingress](https://blogs.aspitalia.com/az/post2920/AWS-EKS-Gestione-Domini-TLS-Ingress.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
