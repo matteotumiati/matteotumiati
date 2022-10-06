@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Gestire il fallimento di uno step in un workflow di GitHub](https://www.dopsitalia.com/script/72/Gestire-Fallimento-Step-Workflow-GitHub.aspx)
 - [Utilizzare la cancellazione logica in Azure Container Registry](https://www.cloudnativeitalia.com/script/236/Utilizzare-Cancellazione-Logica-Azure-Container-Registry.aspx)
 - [Impostare il forward degli header in un sito ASP.NET Core dietro a un reverse proxy](https://www.aspitalia.com/script/1427/Impostare-Forward-Header-Sito-ASP.NET-Core-Reverse-Proxy.aspx)
 - [Permettere l&#39;append ai file di un Azure Storage immutabile](https://www.cloudnativeitalia.com/script/235/Permettere-Append-File-Azure-Storage-Immutabile.aspx)
 - [Leggere i dati di configurazione di ASP.NET Core da Azure Key Vault](https://www.aspitalia.com/script/1426/Leggere-Dati-Configurazione-ASP.NET-Core-Azure-Key-Vault.aspx)
-- [AWS, EKS e Fluent Bit](https://blogs.aspitalia.com/az/post2922/AWS-EKS-Fluent-Bit.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
