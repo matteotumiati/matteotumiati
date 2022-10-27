@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [.NET Conference Italia 2022 - Milano e Online](https://www.aspitalia.com/eventi/93/.NET-Conference-Italia-2022-Milano-Online.aspx)
 - [ChatOps con GitHub](https://www.dopsitalia.com/script/74/ChatOps-GitHub.aspx)
 - [Health monitoring con Azure Container App](https://www.cloudnativeitalia.com/script/238/Health-Monitoring-Azure-Container-App.aspx)
 - [Test reporting in un workflow di GitHub](https://www.dopsitalia.com/script/73/Test-Reporting-Workflow-GitHub.aspx)
 - [Utilizzare .NET Framework con le Azure Function in modalit&#224; isolata](https://www.cloudnativeitalia.com/script/237/Utilizzare-.NET-Framework-Azure-Function-Modalita-Isolata.aspx)
-- [Usare Azure Application Gateway come reverse proxy per ASP.NET Core](https://www.aspitalia.com/script/1428/Usare-Azure-Application-Gateway-Reverse-Proxy-ASP.NET-Core.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
