@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2022 - Milano e Online](https://www.aspitalia.com/eventi/93/.NET-Conference-Italia-2022-Milano-Online.aspx)
+- [Effettuare test di carico con Azure Load Testing](https://www.cloudnativeitalia.com/script/239/Effettuare-Test-Carico-Azure-Load-Testing.aspx)
 - [ChatOps con GitHub](https://www.dopsitalia.com/script/74/ChatOps-GitHub.aspx)
 - [Health monitoring con Azure Container App](https://www.cloudnativeitalia.com/script/238/Health-Monitoring-Azure-Container-App.aspx)
 - [Test reporting in un workflow di GitHub](https://www.dopsitalia.com/script/73/Test-Reporting-Workflow-GitHub.aspx)
-- [Utilizzare .NET Framework con le Azure Function in modalit&#224; isolata](https://www.cloudnativeitalia.com/script/237/Utilizzare-.NET-Framework-Azure-Function-Modalita-Isolata.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
