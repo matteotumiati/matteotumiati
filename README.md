@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2022 - Milano e Online](https://www.aspitalia.com/eventi/93/.NET-Conference-Italia-2022-Milano-Online.aspx)
+- [Taggare automaticamente un repository con un workflow di GitHub](https://www.dopsitalia.com/script/77/Taggare-Automaticamente-Repository-Workflow-GitHub.aspx)
 - [Fare automaticamente il merge di una pull request con un workflow di GitHub](https://www.dopsitalia.com/script/76/Fare-Automaticamente-Merge-Pull-Request-Workflow-GitHub.aspx)
 - [Monitorare metriche delle risorse Azure con Load Testing](https://www.cloudnativeitalia.com/script/240/Monitorare-Metriche-Risorse-Azure-Load-Testing.aspx)
 - [Gestire dati sensibili nella configurazione in ASP.NET Core](https://www.aspitalia.com/script/1432/Gestire-Dati-Sensibili-Configurazione-ASP.NET-Core.aspx)
-- [Pubblicare un pacchetto di NuGet nel feed di GitHub](https://www.dopsitalia.com/script/75/Pubblicare-Pacchetto-NuGet-Feed-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
