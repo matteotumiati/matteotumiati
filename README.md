@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2022 - Milano e Online](https://www.aspitalia.com/eventi/93/.NET-Conference-Italia-2022-Milano-Online.aspx)
+- [Caricare un asset come parte di una release con un workflow di GitHub](https://www.dopsitalia.com/script/79/Caricare-Asset-Parte-Release-Workflow-GitHub.aspx)
 - [Personalizzare le richieste con i rule set di Azure Front Door](https://www.cloudnativeitalia.com/script/242/Personalizzare-Richieste-Rule-Set-Azure-Front-Door.aspx)
 - [Terminare l&#39;esecuzione di un workflow di GitHub](https://www.dopsitalia.com/script/78/Terminare-Esecuzione-Workflow-GitHub.aspx)
 - [Introduzione alla security con GitHub](https://www.dopsitalia.com/articoli/DevOps/github-security.aspx)
-- [Utilizzare i WebSocket con Azure API Management](https://www.cloudnativeitalia.com/script/241/Utilizzare-WebSocket-Azure-API-Management.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
