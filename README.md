@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Condividere i workflow tra pi&#249; repository in GitHub](https://www.dopsitalia.com/script/80/Condividere-Workflow-Repository-GitHub.aspx)
 - [Leggere la configurazione da Azure KeyVault con logica di retry in ASP.NET Core](https://www.aspitalia.com/script/1436/Leggere-Configurazione-Azure-KeyVault-Logica-Retry-ASP.NET-Core.aspx)
 - [.NET Conference Italia 2022 - Milano e Online](https://www.aspitalia.com/eventi/93/.NET-Conference-Italia-2022-Milano-Online.aspx)
 - [Caricare un asset come parte di una release con un workflow di GitHub](https://www.dopsitalia.com/script/79/Caricare-Asset-Parte-Release-Workflow-GitHub.aspx)
 - [Personalizzare le richieste con i rule set di Azure Front Door](https://www.cloudnativeitalia.com/script/242/Personalizzare-Richieste-Rule-Set-Azure-Front-Door.aspx)
-- [Terminare l&#39;esecuzione di un workflow di GitHub](https://www.dopsitalia.com/script/78/Terminare-Esecuzione-Workflow-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
