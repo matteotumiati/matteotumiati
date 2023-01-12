@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Creare automaticamente una issue di GitHub](https://www.dopsitalia.com/script/81/Creare-Automaticamente-Issue-GitHub.aspx)
 - [Usare gateway dedicati con Azure Cosmos DB per migliorare le prestazioni](https://www.cloudnativeitalia.com/script/243/Usare-Gateway-Dedicati-Azure-Cosmos-DB-Migliorare-Prestazioni.aspx)
 - [GitHub &lt;3 .NET](https://media.aspitalia.com/events/netconf22-github.media)
 - [Condividere i workflow tra pi&#249; repository in GitHub](https://www.dopsitalia.com/script/80/Condividere-Workflow-Repository-GitHub.aspx)
 - [Leggere la configurazione da Azure KeyVault con logica di retry in ASP.NET Core](https://www.aspitalia.com/script/1436/Leggere-Configurazione-Azure-KeyVault-Logica-Retry-ASP.NET-Core.aspx)
-- [.NET Conference Italia 2022 - Milano e Online](https://www.aspitalia.com/eventi/93/.NET-Conference-Italia-2022-Milano-Online.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
