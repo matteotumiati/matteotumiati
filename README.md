@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Aggiungere le issue di pi&#249; repository in una board in GitHub](https://www.dopsitalia.com/script/83/Aggiungere-Issue-Repository-Board-GitHub.aspx)
 - [Collegare servizi a Azure Container App con i service connector](https://www.cloudnativeitalia.com/script/244/Collegare-Servizi-Azure-Container-App-Service-Connector.aspx)
 - [Migrare un repository git da Azure DevOps a GitHub](https://www.dopsitalia.com/script/82/Migrare-Repository-Git-Azure-DevOps-GitHub.aspx)
 - [Creare automaticamente una issue di GitHub](https://www.dopsitalia.com/script/81/Creare-Automaticamente-Issue-GitHub.aspx)
 - [Usare gateway dedicati con Azure Cosmos DB per migliorare le prestazioni](https://www.cloudnativeitalia.com/script/243/Usare-Gateway-Dedicati-Azure-Cosmos-DB-Migliorare-Prestazioni.aspx)
-- [GitHub &lt;3 .NET](https://media.aspitalia.com/events/netconf22-github.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
