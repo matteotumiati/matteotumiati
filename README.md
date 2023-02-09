@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Bloccare una pull request che arriva da branch non definiti in GitHub](https://www.dopsitalia.com/script/85/Bloccare-Pull-Request-Arriva-Branch-Definiti-GitHub.aspx)
 - [Creare applicazioni distribuite con Azure Container Apps e Dapr](https://www.cloudnativeitalia.com/script/246/Creare-Applicazioni-Distribuite-Azure-Container-Apps-Dapr.aspx)
 - [Abilitare automaticamente Dependabot in tutti i repository di una organizzazione su GitHub](https://www.dopsitalia.com/script/84/Abilitare-Automaticamente-Dependabot-Repository-Organizzazione-GitHub.aspx)
 - [Montare blob e file share su Azure App Service](https://www.cloudnativeitalia.com/script/245/Montare-Blob-File-Share-Azure-App-Service.aspx)
 - [Aggiungere le issue di pi&#249; repository in una board in GitHub](https://www.dopsitalia.com/script/83/Aggiungere-Issue-Repository-Board-GitHub.aspx)
-- [Collegare servizi a Azure Container App con i service connector](https://www.cloudnativeitalia.com/script/244/Collegare-Servizi-Azure-Container-App-Service-Connector.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
