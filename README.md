@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Controllare se un branch esiste nel remote con un workflow di GitHub](https://www.dopsitalia.com/script/88/Controllare-Branch-Esiste-Remote-Workflow-GitHub.aspx)
 - [Pubblicare la documentazione di un repository con GitHub Pages](https://www.dopsitalia.com/script/87/Pubblicare-Documentazione-Repository-GitHub-Pages.aspx)
 - [Limitare lo spazio dei repository di Azure Container Registry con uno script bash e Azure CLI](https://www.cloudnativeitalia.com/script/248/Limitare-Spazio-Repository-Azure-Container-Registry-Script-Bash-Azure.aspx)
 - [Migrare un repository che contiene large file storage objects in GitHub](https://www.dopsitalia.com/script/86/Migrare-Repository-Contiene-Large-File-Storage-Objects-GitHub.aspx)
 - [Sfruttare il portale Azure per creare script di automazione](https://www.cloudnativeitalia.com/script/247/Sfruttare-Portale-Azure-Creare-Script-Automazione.aspx)
-- [Bloccare una pull request che arriva da branch non definiti in GitHub](https://www.dopsitalia.com/script/85/Bloccare-Pull-Request-Arriva-Branch-Definiti-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
