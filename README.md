@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Catturare la telemetria degli eventi di output cache in ASP.NET Core](https://www.aspitalia.com/script/1448/Catturare-Telemetria-Eventi-Output-Cache-ASP.NET-Core.aspx)
 - [Linting di un Dockerfile con un workflow di GitHub](https://www.dopsitalia.com/script/90/Linting-Dockerfile-Workflow-GitHub.aspx)
 - [Monitorare i server on-premises con Azure Arc](https://www.cloudnativeitalia.com/script/250/Monitorare-Server-Onpremises-Azure-Arc.aspx)
 - [Impostare dinamicamente il nome di una run di un workflow di GitHub](https://www.dopsitalia.com/script/89/Impostare-Dinamicamente-Nome-Run-Workflow-GitHub.aspx)
 - [Gestire server e pc on premise con Azure Arc](https://www.cloudnativeitalia.com/script/249/Gestire-Server-PC-ON-Premise-Azure-Arc.aspx)
-- [Controllare se un branch esiste nel remote con un workflow di GitHub](https://www.dopsitalia.com/script/88/Controllare-Branch-Esiste-Remote-Workflow-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
