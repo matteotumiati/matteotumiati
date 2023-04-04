@@ -52,7 +52,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
   <!--START_SECTION:activity-->  
 
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#722](https://github.com/datreeio/datree/issues/722) in [datreeio/datree](https://github.com/datreeio/datree)
+1. ❗️ Opened issue [#550](https://github.com/argoproj-labs/argocd-image-updater/issues/550) in [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater)
 2. ❗️ Opened issue [#127](https://github.com/Readme-Workflows/recent-activity/issues/127) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. 🎉 Merged PR [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 4. 👍 Approved [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100#pullrequestreview-788741243) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
@@ -60,7 +60,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 3rd, 2023, 10:05:05 AM
+Last Updated: Tuesday, April 4th, 2023, 10:05:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
