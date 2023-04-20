@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Gestione degli environment per il deploy con un workflow di GitHub](https://www.dopsitalia.com/script/93/Gestione-Environment-Deploy-Workflow-GitHub.aspx)
 - [Utilizzare i nuovi piani dedicati di Azure Container Apps](https://www.cloudnativeitalia.com/script/253/Utilizzare-Piani-Dedicati-Azure-Container-Apps.aspx)
 - [Effettuare il pull di git LFS in un workflow di GitHub](https://www.dopsitalia.com/script/92/Effettuare-Pull-Git-LFS-Workflow-GitHub.aspx)
 - [Utilizzare ChatGPT con Azure OpenAI](https://www.cloudnativeitalia.com/script/252/Utilizzare-ChatGPT-Azure-OpenAI.aspx)
 - [Workflow di continuous deployment tramite pull request label in GitHub](https://www.dopsitalia.com/script/91/Workflow-Continuous-Deployment-Tramite-Pull-Request-Label-GitHub.aspx)
-- [Ricevere avvisi su metriche dei server Azure Arc](https://www.cloudnativeitalia.com/script/251/Ricevere-Avvisi-Metriche-Server-Azure-Arc.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
