@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Controllare gli accessi IP alle app con Azure Container Apps](https://www.cloudnativeitalia.com/script/255/Controllare-Accessi-IP-App-Azure-Container-Apps.aspx)
 - [Determinare lo stato di un pod in Kubernetes](https://www.dopsitalia.com/script/94/Determinare-Pod-Kubernetes.aspx)
 - [Trasformare qualsiasi backend in un servizio GraphQL con Azure API Management](https://www.cloudnativeitalia.com/script/254/Trasformare-Backend-Servizio-GraphQL-Azure-API-Management.aspx)
 - [Gestione degli environment per il deploy con un workflow di GitHub](https://www.dopsitalia.com/script/93/Gestione-Environment-Deploy-Workflow-GitHub.aspx)
 - [Utilizzare i nuovi piani dedicati di Azure Container Apps](https://www.cloudnativeitalia.com/script/253/Utilizzare-Piani-Dedicati-Azure-Container-Apps.aspx)
-- [Effettuare il pull di git LFS in un workflow di GitHub](https://www.dopsitalia.com/script/92/Effettuare-Pull-Git-LFS-Workflow-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
