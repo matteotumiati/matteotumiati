@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Effettuare il deploy di immagini solo da container registry approvati in Kubernetes](https://www.dopsitalia.com/script/96/Effettuare-Deploy-Immagini-Container-Registry-Approvati-Kubernetes.aspx)
 - [Usare il versioning con i controller di ASP.NET Core Web API](https://www.aspitalia.com/script/1453/Usare-Versioning-Controller-ASP.NET-Core-Web-API.aspx)
 - [Elencare le container images installate in un cluster di Kubernetes](https://www.dopsitalia.com/script/95/Elencare-Container-Images-Installate-Cluster-Kubernetes.aspx)
 - [Controllare gli accessi IP alle app con Azure Container Apps](https://www.cloudnativeitalia.com/script/255/Controllare-Accessi-IP-App-Azure-Container-Apps.aspx)
 - [Determinare lo stato di un pod in Kubernetes](https://www.dopsitalia.com/script/94/Determinare-Pod-Kubernetes.aspx)
-- [Trasformare qualsiasi backend in un servizio GraphQL con Azure API Management](https://www.cloudnativeitalia.com/script/254/Trasformare-Backend-Servizio-GraphQL-Azure-API-Management.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
