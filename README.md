@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Evitare la command injection in un workflow di GitHub](https://www.dopsitalia.com/script/97/Evitare-Command-Injection-Workflow-GitHub.aspx)
 - [Utilizzare gli snapshot con Azure File shares](https://www.cloudnativeitalia.com/script/256/Utilizzare-Snapshot-Azure-File-Shares.aspx)
 - [Effettuare chiamate con versioning da Blazor ad ASP.NET Core](https://www.aspitalia.com/script/1455/Effettuare-Chiamate-Versioning-Blazor-ASP.NET-Core.aspx)
 - [Effettuare il deploy di immagini solo da container registry approvati in Kubernetes](https://www.dopsitalia.com/script/96/Effettuare-Deploy-Immagini-Container-Registry-Approvati-Kubernetes.aspx)
 - [Usare il versioning con i controller di ASP.NET Core Web API](https://www.aspitalia.com/script/1453/Usare-Versioning-Controller-ASP.NET-Core-Web-API.aspx)
-- [Elencare le container images installate in un cluster di Kubernetes](https://www.dopsitalia.com/script/95/Elencare-Container-Images-Installate-Cluster-Kubernetes.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
