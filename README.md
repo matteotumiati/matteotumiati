@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Utilizzare domini personalizzati gestiti automaticamente con Azure Container Apps](https://www.cloudnativeitalia.com/script/258/Utilizzare-Domini-Personalizzati-Gestiti-Automaticamente-Azure-Container-Apps.aspx)
 - [Mascherare l&#39;output di un valore all&#39;interno dei log di un workflow di GitHub](https://www.dopsitalia.com/script/98/Mascherare-Output-Valore-Interno-Log-Workflow-GitHub.aspx)
 - [Semplificare il deployment di siti statici con Azure Static Web App](https://www.cloudnativeitalia.com/script/257/Semplificare-Deployment-Siti-Statici-Azure-Static-Web-App.aspx)
 - [Evitare la command injection in un workflow di GitHub](https://www.dopsitalia.com/script/97/Evitare-Command-Injection-Workflow-GitHub.aspx)
 - [Utilizzare gli snapshot con Azure File shares](https://www.cloudnativeitalia.com/script/256/Utilizzare-Snapshot-Azure-File-Shares.aspx)
-- [Effettuare chiamate con versioning da Blazor ad ASP.NET Core](https://www.aspitalia.com/script/1455/Effettuare-Chiamate-Versioning-Blazor-ASP.NET-Core.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
