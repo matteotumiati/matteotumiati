@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Configurare policy CORS in Azure Container Apps](https://www.cloudnativeitalia.com/script/259/Configurare-Policy-CORS-Azure-Container-Apps.aspx)
 - [Copiare automaticamente le secret tra pi&#249; repository di GitHub](https://www.dopsitalia.com/script/99/Copiare-Automaticamente-Secret-Repository-GitHub.aspx)
 - [Utilizzare domini personalizzati gestiti automaticamente con Azure Container Apps](https://www.cloudnativeitalia.com/script/258/Utilizzare-Domini-Personalizzati-Gestiti-Automaticamente-Azure-Container-Apps.aspx)
 - [Mascherare l&#39;output di un valore all&#39;interno dei log di un workflow di GitHub](https://www.dopsitalia.com/script/98/Mascherare-Output-Valore-Interno-Log-Workflow-GitHub.aspx)
 - [Semplificare il deployment di siti statici con Azure Static Web App](https://www.cloudnativeitalia.com/script/257/Semplificare-Deployment-Siti-Statici-Azure-Static-Web-App.aspx)
-- [Evitare la command injection in un workflow di GitHub](https://www.dopsitalia.com/script/97/Evitare-Command-Injection-Workflow-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
