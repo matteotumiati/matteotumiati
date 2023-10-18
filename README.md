@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2023 - Milano e Online](https://www.aspitalia.com/eventi/95/.NET-Conference-Italia-2023-Milano-Online.aspx)
+- [Accesso sicuro ai secrets attraverso i file in Azure Container Apps](https://www.cloudnativeitalia.com/script/261/Accesso-Sicuro-Secrets-Attraverso-File-Azure-Container-Apps.aspx)
 - [Utilizzare la session affinity con Azure Container Apps](https://www.cloudnativeitalia.com/script/260/Utilizzare-Session-Affinity-Azure-Container-Apps.aspx)
 - [Verificare la provenienza di un commit tramite le GitHub Actions](https://www.dopsitalia.com/script/100/Verificare-Provenienza-Commit-Tramite-GitHub-Actions.aspx)
 - [Configurare policy CORS in Azure Container Apps](https://www.cloudnativeitalia.com/script/259/Configurare-Policy-CORS-Azure-Container-Apps.aspx)
-- [Copiare automaticamente le secret tra pi&#249; repository di GitHub](https://www.dopsitalia.com/script/99/Copiare-Automaticamente-Secret-Repository-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
