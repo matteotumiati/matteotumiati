@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2023 - Milano e Online](https://www.aspitalia.com/eventi/95/.NET-Conference-Italia-2023-Milano-Online.aspx)
+- [Eseguire attivit&#224; con Azure Container Jobs](https://www.cloudnativeitalia.com/script/263/Eseguire-Attivita-Azure-Container-Jobs.aspx)
 - [Configurare dependabot per aggiornare le dipendenze di terze parti con GitHub Actions](https://www.dopsitalia.com/script/101/Configurare-Dependabot-Aggiornare-Dipendenze-Terze-Parti-GitHub-Actions.aspx)
 - [Inizializzare i container in Azure Container Apps](https://www.cloudnativeitalia.com/script/262/Inizializzare-Container-Azure-Container-Apps.aspx)
 - [Accesso sicuro ai secrets attraverso i file in Azure Container Apps](https://www.cloudnativeitalia.com/script/261/Accesso-Sicuro-Secrets-Attraverso-File-Azure-Container-Apps.aspx)
-- [Utilizzare la session affinity con Azure Container Apps](https://www.cloudnativeitalia.com/script/260/Utilizzare-Session-Affinity-Azure-Container-Apps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
