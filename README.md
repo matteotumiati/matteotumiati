@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2023 - Milano e Online](https://www.aspitalia.com/eventi/95/.NET-Conference-Italia-2023-Milano-Online.aspx)
+- [Evitare la script injection nelle GitHub Actions](https://www.dopsitalia.com/script/102/Evitare-Script-Injection-GitHub-Actions.aspx)
 - [Eseguire attivit&#224; basate su eventi con Azure Container Jobs](https://www.cloudnativeitalia.com/script/265/Eseguire-Attivita-Basate-Eventi-Azure-Container-Jobs.aspx)
 - [Eseguire attivit&#224; pianificate con Azure Container Jobs](https://www.cloudnativeitalia.com/script/264/Eseguire-Attivita-Pianificate-Azure-Container-Jobs.aspx)
 - [Eseguire attivit&#224; con Azure Container Jobs](https://www.cloudnativeitalia.com/script/263/Eseguire-Attivita-Azure-Container-Jobs.aspx)
-- [Configurare dependabot per aggiornare le dipendenze di terze parti con GitHub Actions](https://www.dopsitalia.com/script/101/Configurare-Dependabot-Aggiornare-Dipendenze-Terze-Parti-GitHub-Actions.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
