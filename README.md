@@ -33,7 +33,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Generare token per autenicarsi sulle API di GitHub](https://www.dopsitalia.com/script/104/Generare-Token-Autenicarsi-API-GitHub.aspx)
 - [Utilizzare politiche di resiliency con Azure Container App](https://www.cloudnativeitalia.com/script/267/Utilizzare-Politiche-Resiliency-Azure-Container-App.aspx)
-- [.NET Conference Italia 2023 - Milano e Online](https://www.aspitalia.com/eventi/95/.NET-Conference-Italia-2023-Milano-Online.aspx)
+- [.NET Conference Italia 2023 - Milano e Online](https://www.aspitalia.com/eventi/95/.NET-Conference-Italia-2023.aspx)
 - [Installare le Web App site extension tramite una pipeline di Azure DevOps](https://www.dopsitalia.com/script/103/Installare-Web-App-Site-Extension-Tramite-Pipeline-Azure-DevOps.aspx)
 - [Utilizzare database e servizi con gli add-on di Container App](https://www.cloudnativeitalia.com/script/266/Utilizzare-Database-Servizi-Addon-Container-App.aspx)
 <!-- BLOG-POSTS:END -->
