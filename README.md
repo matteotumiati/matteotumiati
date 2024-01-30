@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Utilizzare un service principal per accedere a Azure Container Registry](https://www.cloudnativeitalia.com/script/270/Utilizzare-Service-Principal-Accedere-Azure-Container-Registry.aspx)
 - [Code scanning e advanced security con Azure DevOps](https://www.dopsitalia.com/script/106/Code-Scanning-Advanced-Security-Azure-DevOps.aspx)
 - [Utilizzare Model as a Service su Microsoft Azure](https://www.cloudnativeitalia.com/script/269/Utilizzare-Model-AS-Service-Microsoft-Azure.aspx)
 - [Eseguire le GitHub Actions offline](https://www.dopsitalia.com/script/105/Eseguire-GitHub-Actions-Offline.aspx)
 - [Potenziare Azure AI Search con la ricerca vettoriale](https://www.cloudnativeitalia.com/script/268/Potenziare-Azure-Search-Ricerca-Vettoriale.aspx)
-- [Generare token per autenicarsi sulle API di GitHub](https://www.dopsitalia.com/script/104/Generare-Token-Autenicarsi-API-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
