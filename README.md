@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Visualizzare le change sul plan di Terraform tramite le GitHub Actions](https://www.dopsitalia.com/script/110/Visualizzare-Change-Plan-Terraform-Tramite-GitHub-Actions.aspx)
 - [Sfruttare MQTT in cloud e in edge con Azure Event Grid](https://www.cloudnativeitalia.com/script/273/Sfruttare-MQTT-Cloud-Edge-Azure-Event-Grid.aspx)
 - [Eseguire una query su SQL Azure tramite un workflow di GitHub](https://www.dopsitalia.com/script/109/Eseguire-Query-SQL-Azure-Tramite-Workflow-GitHub.aspx)
 - [Criptare la comunicazione con mTLS in Azure Container Apps](https://www.cloudnativeitalia.com/script/272/Criptare-Comunicazione-MTLS-Azure-Container-Apps.aspx)
 - [Esportare ed analizzare le issue di GitHub con la CLI e GraphQL](https://www.dopsitalia.com/script/108/Esportare-Analizzare-Issue-GitHub-CLI-GraphQL.aspx)
-- [Gestire domini wildcard in Azure Container Apps](https://www.cloudnativeitalia.com/script/271/Gestire-Domini-Wildcard-Azure-Container-Apps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
