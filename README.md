@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Sostituire la GitHub Action di login su private registry](https://www.dopsitalia.com/script/112/Sostituire-GitHub-Action-Login-Private-Registry.aspx)
 - [Creare gruppi di client per Event Grid MQTT](https://www.cloudnativeitalia.com/script/275/Creare-Gruppi-Client-Event-Grid-MQTT.aspx)
 - [Disabilitare automaticamente un workflow di GitHub](https://www.dopsitalia.com/script/111/Disabilitare-Automaticamente-Workflow-GitHub.aspx)
 - [Eseguire operazioni sui blob con Azure Storage Actions](https://www.cloudnativeitalia.com/script/274/Eseguire-Operazioni-Blob-Azure-Storage-Actions.aspx)
 - [Visualizzare le change sul plan di Terraform tramite le GitHub Actions](https://www.dopsitalia.com/script/110/Visualizzare-Change-Plan-Terraform-Tramite-GitHub-Actions.aspx)
-- [Sfruttare MQTT in cloud e in edge con Azure Event Grid](https://www.cloudnativeitalia.com/script/273/Sfruttare-MQTT-Cloud-Edge-Azure-Event-Grid.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
