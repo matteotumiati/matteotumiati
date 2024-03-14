@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Autenticarsi in modo sicuro su Azure tramite GitHub Actions](https://www.dopsitalia.com/script/113/Autenticarsi-Modo-Sicuro-Azure-Tramite-GitHub-Actions.aspx)
 - [Sfruttare al massimo i topic space di Event Grid MQTT](https://www.cloudnativeitalia.com/script/276/Sfruttare-Massimo-Topic-Space-Event-Grid-MQTT.aspx)
 - [Sostituire la GitHub Action di login su private registry](https://www.dopsitalia.com/script/112/Sostituire-GitHub-Action-Login-Private-Registry.aspx)
 - [Creare gruppi di client per Event Grid MQTT](https://www.cloudnativeitalia.com/script/275/Creare-Gruppi-Client-Event-Grid-MQTT.aspx)
 - [Disabilitare automaticamente un workflow di GitHub](https://www.dopsitalia.com/script/111/Disabilitare-Automaticamente-Workflow-GitHub.aspx)
-- [Eseguire operazioni sui blob con Azure Storage Actions](https://www.cloudnativeitalia.com/script/274/Eseguire-Operazioni-Blob-Azure-Storage-Actions.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
