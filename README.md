@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Disabilitare automaticamente un workflow di GitHub (parte 2)](https://www.dopsitalia.com/script/116/Disabilitare-Automaticamente-Workflow-GitHub-Parte-2.aspx)
 - [Utilizzare il trigger SQL con le Azure Function](https://www.cloudnativeitalia.com/script/278/Utilizzare-Trigger-SQL-Azure-Function.aspx)
 - [Evitare (o ridurre) il repo-jacking sulle GitHub Actions](https://www.dopsitalia.com/script/115/Evitare-O-Ridurre-Repojacking-GitHub-Actions.aspx)
 - [Cambiare la chiave di partizionamento di Azure Cosmos DB](https://www.cloudnativeitalia.com/script/277/Cambiare-Chiave-Partizionamento-Azure-Cosmos-DB.aspx)
 - [Migrare una service connection a workload identity federation in Azure DevOps](https://www.dopsitalia.com/script/114/Migrare-Service-Connection-Workload-Identity-Federation-Azure-DevOps.aspx)
-- [Autenticarsi in modo sicuro su Azure tramite GitHub Actions](https://www.dopsitalia.com/script/113/Autenticarsi-Modo-Sicuro-Azure-Tramite-GitHub-Actions.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
