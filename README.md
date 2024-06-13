@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Garantire la provenienza e l&#39;integrit&#224; degli artefatti prodotti su GitHub](https://www.dopsitalia.com/script/121/Garantire-Provenienza-Integrita-Artefatti-Prodotti-GitHub.aspx)
 - [Utilizzare gRPC su App Service di Azure](https://www.cloudnativeitalia.com/script/282/Utilizzare-GRPC-App-Service-Azure.aspx)
 - [Eseguire i worklow di GitHub su runner potenziati](https://www.dopsitalia.com/script/120/Eseguire-Worklow-GitHub-Runner-Potenziati.aspx)
 - [Creare una custom property in GitHub](https://www.dopsitalia.com/script/119/Creare-Custom-Property-GitHub.aspx)
 - [Utilizzare il nuovo modello GPT-4o con Azure OpenAI](https://www.cloudnativeitalia.com/script/281/Utilizzare-Modello-GPT4o-Azure-OpenAI.aspx)
-- [Configurare il nome della run di un workflow di GitHub in base al contesto di esecuzione](https://www.dopsitalia.com/script/118/Configurare-Nome-Run-Workflow-GitHub-Base-Contesto-Esecuzione.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
