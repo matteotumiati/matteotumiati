@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Usare i servizi di Azure OpenAI e ChatGPT in ASP.NET Core con Semantic Kernel](https://www.aspitalia.com/script/1489/Usare-Servizi-Azure-OpenAI-ChatGPT-ASP.NET-Core-Semantic-Kernel.aspx)
 - [Cancellare una run di un workflow di GitHub](https://www.dopsitalia.com/script/123/Cancellare-Run-Workflow-GitHub.aspx)
 - [Utilizzare Azure Cosmos DB con i vettori](https://www.cloudnativeitalia.com/script/284/Utilizzare-Azure-Cosmos-DB-Vettori.aspx)
 - [Generare la software bill of material (SBOM) in GitHub](https://www.dopsitalia.com/script/122/Generare-Software-Bill-OF-Material-SBOM-GitHub.aspx)
 - [Utilizzare Copilot con Azure Cosmos DB](https://www.cloudnativeitalia.com/script/283/Utilizzare-Copilot-Azure-Cosmos-DB.aspx)
-- [Garantire la provenienza e l&#39;integrit&#224; degli artefatti prodotti su GitHub](https://www.dopsitalia.com/script/121/Garantire-Provenienza-Integrita-Artefatti-Prodotti-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
