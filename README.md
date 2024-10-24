@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Rinnovare il token di una GitHub App durante l&#39;esecuzione di un workflow](https://www.dopsitalia.com/script/127/Rinnovare-Token-GitHub-App-Esecuzione-Workflow.aspx)
 - [Proteggere le risorse Azure con private link e private endpoints](https://www.cloudnativeitalia.com/script/288/Proteggere-Risorse-Azure-Private-Link-Private-Endpoints.aspx)
 - [Ottenere un token di accesso per una GitHub App](https://www.dopsitalia.com/script/126/Ottenere-Token-Accesso-GitHub-App.aspx)
 - [Gestire i dati con Azure Cosmos DB Data Explorer](https://www.cloudnativeitalia.com/script/287/Gestire-Dati-Azure-Cosmos-DB-Data-Explorer.aspx)
 - [.NET Conference Italia 2024](https://www.aspitalia.com/eventi/96/.NET-Conference-Italia-2024.aspx)
-- [Recuperare l&#39;ultima versione di una release di GitHub](https://www.dopsitalia.com/script/125/Recuperare-Ultima-Versione-Release-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
