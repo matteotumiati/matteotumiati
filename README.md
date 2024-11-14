@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Eseguire una ricerca avanzata per recuperare le issue di GitHub](https://www.dopsitalia.com/script/129/Eseguire-Ricerca-Avanzata-Recuperare-Issue-GitHub.aspx)
 - [Sfruttare gli embedding e la ricerca vettoriale con Azure SQL Database](https://www.cloudnativeitalia.com/script/290/Sfruttare-Embedding-Ricerca-Vettoriale-Azure-SQL-Database.aspx)
 - [Esporre i propri servizi applicativi con Semantic Kernel e ASP.NET Web API](https://www.aspitalia.com/script/1494/Esporre-Servizi-Applicativi-Semantic-Kernel-ASP.NET-Web-API.aspx)
 - [Applicare un filtro per recuperare alcune issue di GitHub](https://www.dopsitalia.com/script/128/Applicare-Filtro-Recuperare-Issue-GitHub.aspx)
 - [Sfruttare GPT-4o realtime su Azure Open AI per conversazioni vocali](https://www.cloudnativeitalia.com/script/289/Sfruttare-GPT4o-Realtime-Azure-Open-Conversazioni-Vocali.aspx)
-- [Popolare una classe a partire dal testo, con Semantic Kernel e ASP.NET Core Web API](https://www.aspitalia.com/script/1493/Popolare-Classe-Partire-Testo-Semantic-Kernel-ASP.NET-Core-Web.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
