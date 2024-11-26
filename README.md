@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Aggiornare a .NET 9 su Azure App Service](https://www.cloudnativeitalia.com/script/292/Aggiornare-.NET-Azure-App-Service.aspx)
 - [Eseguire script pre e post esecuzione di un workflow di GitHub](https://www.dopsitalia.com/script/130/Eseguire-Script-Pre-Post-Esecuzione-Workflow-GitHub.aspx)
 - [Migliorare l&#39;organizzazione delle risorse con Azure Policy](https://www.cloudnativeitalia.com/script/291/Migliorare-Organizzazione-Risorse-Azure-Policy.aspx)
 - [Eseguire una ricerca avanzata per recuperare le issue di GitHub](https://www.dopsitalia.com/script/129/Eseguire-Ricerca-Avanzata-Recuperare-Issue-GitHub.aspx)
 - [Sfruttare gli embedding e la ricerca vettoriale con Azure SQL Database](https://www.cloudnativeitalia.com/script/290/Sfruttare-Embedding-Ricerca-Vettoriale-Azure-SQL-Database.aspx)
-- [Esporre i propri servizi applicativi con Semantic Kernel e ASP.NET Web API](https://www.aspitalia.com/script/1494/Esporre-Servizi-Applicativi-Semantic-Kernel-ASP.NET-Web-API.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
