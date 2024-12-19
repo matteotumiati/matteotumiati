@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Ottimizzare le pull con Artifact Cache di Azure Container Registry](https://www.cloudnativeitalia.com/script/295/Ottimizzare-Pull-Artifact-Cache-Azure-Container-Registry.aspx)
 - [Bloccare l&#39;esecuzione di un pod in mancanza di un&#39;artifact attestation di GitHub](https://www.dopsitalia.com/script/133/Bloccare-Esecuzione-Pod-Mancanza-Artifact-Attestation-GitHub.aspx)
 - [Gestire gli accessi con Token su Azure Container Registry](https://www.cloudnativeitalia.com/script/294/Gestire-Accessi-Token-Azure-Container-Registry.aspx)
 - [Eliminare una project wiki di Azure DevOps](https://www.dopsitalia.com/script/132/Eliminare-Project-Wiki-Azure-DevOps.aspx)
 - [Recuperare App Service cancellati su Azure](https://www.cloudnativeitalia.com/script/293/Recuperare-App-Service-Cancellati-Azure.aspx)
-- [Escludere alcuni file da GitHub Secret Scanning](https://www.dopsitalia.com/script/131/Escludere-File-GitHub-Secret-Scanning.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
