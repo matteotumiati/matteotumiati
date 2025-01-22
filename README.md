@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Potenziare la ricerca su Cosmos DB con Full Text Search](https://www.cloudnativeitalia.com/script/297/Potenziare-Ricerca-Cosmos-DB-Full-Text-Search.aspx)
 - [Simulare Azure Cosmos DB in locale con Docker](https://www.cloudnativeitalia.com/script/296/Simulare-Azure-Cosmos-DB-Locale-Docker.aspx)
 - [Ottimizzare le pull con Artifact Cache di Azure Container Registry](https://www.cloudnativeitalia.com/script/295/Ottimizzare-Pull-Artifact-Cache-Azure-Container-Registry.aspx)
 - [Bloccare l&#39;esecuzione di un pod in mancanza di un&#39;artifact attestation di GitHub](https://www.dopsitalia.com/script/133/Bloccare-Esecuzione-Pod-Mancanza-Artifact-Attestation-GitHub.aspx)
 - [Gestire gli accessi con Token su Azure Container Registry](https://www.cloudnativeitalia.com/script/294/Gestire-Accessi-Token-Azure-Container-Registry.aspx)
-- [Path addizionali per gli asset in ASP.NET Core MVC](https://www.aspitalia.com/script/1497/Path-Addizionali-Asset-ASP.NET-Core-MVC.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
