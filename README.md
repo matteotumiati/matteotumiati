@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Utilizzare DeepSeek R1 con Azure AI](https://www.cloudnativeitalia.com/script/299/Utilizzare-DeepSeek-R1-Azure.aspx)
 - [Supportare la sessione affinity di Azure App Service con Application Gateway](https://www.cloudnativeitalia.com/script/298/Supportare-Sessione-Affinity-Azure-App-Service-Application-Gateway.aspx)
 - [Recuperare automaticamente un utente e aggiungerlo ad un gruppo di Azure DevOps](https://www.dopsitalia.com/script/134/Recuperare-Automaticamente-Utente-Aggiungerlo-Gruppo-Azure-DevOps.aspx)
 - [Potenziare la ricerca su Cosmos DB con Full Text Search](https://www.cloudnativeitalia.com/script/297/Potenziare-Ricerca-Cosmos-DB-Full-Text-Search.aspx)
 - [Simulare Azure Cosmos DB in locale con Docker](https://www.cloudnativeitalia.com/script/296/Simulare-Azure-Cosmos-DB-Locale-Docker.aspx)
-- [Ottimizzare le pull con Artifact Cache di Azure Container Registry](https://www.cloudnativeitalia.com/script/295/Ottimizzare-Pull-Artifact-Cache-Azure-Container-Registry.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
