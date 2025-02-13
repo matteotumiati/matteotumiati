@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Managed deployment strategy in Azure DevOps](https://www.dopsitalia.com/script/136/Managed-Deployment-Strategy-Azure-DevOps.aspx)
 - [Configurare e gestire sidecar container in Azure App Service](https://www.cloudnativeitalia.com/script/300/Configurare-Gestire-Sidecar-Container-Azure-App-Service.aspx)
 - [Utilizzare l&#39;espressione if inline in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/135/Utilizzare-Espressione-IF-Inline-Pipeline-Azure-DevOps.aspx)
 - [Utilizzare DeepSeek R1 con Azure AI](https://www.cloudnativeitalia.com/script/299/Utilizzare-DeepSeek-R1-Azure.aspx)
 - [Supportare la sessione affinity di Azure App Service con Application Gateway](https://www.cloudnativeitalia.com/script/298/Supportare-Sessione-Affinity-Azure-App-Service-Application-Gateway.aspx)
-- [Recuperare automaticamente un utente e aggiungerlo ad un gruppo di Azure DevOps](https://www.dopsitalia.com/script/134/Recuperare-Automaticamente-Utente-Aggiungerlo-Gruppo-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
