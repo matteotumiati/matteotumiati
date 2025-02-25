@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Anonimizzare i dati sensibili nei log di Azure Front Door](https://www.cloudnativeitalia.com/script/302/Anonimizzare-Dati-Sensibili-Log-Azure-Front-Door.aspx)
 - [Rendere le variabili read-only in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/137/Rendere-Variabili-Readonly-Pipeline-Azure-DevOps.aspx)
 - [Generare una User Delegation SAS in .NET per Azure Blob Storage](https://www.cloudnativeitalia.com/script/301/Generare-User-Delegation-SAS-.NET-Azure-Blob-Storage.aspx)
 - [Managed deployment strategy in Azure DevOps](https://www.dopsitalia.com/script/136/Managed-Deployment-Strategy-Azure-DevOps.aspx)
 - [Configurare e gestire sidecar container in Azure App Service](https://www.cloudnativeitalia.com/script/300/Configurare-Gestire-Sidecar-Container-Azure-App-Service.aspx)
-- [Utilizzare l&#39;espressione if inline in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/135/Utilizzare-Espressione-IF-Inline-Pipeline-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
