@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Creare agenti facilmente con Azure AI Agent Service](https://www.cloudnativeitalia.com/script/304/Creare-Agenti-Facilmente-Azure-Agent-Service.aspx)
 - [Ricevere notifiche sui test con Azure Load Testing](https://www.cloudnativeitalia.com/script/303/Ricevere-Notifiche-Test-Azure-Load-Testing.aspx)
 - [Anonimizzare i dati sensibili nei log di Azure Front Door](https://www.cloudnativeitalia.com/script/302/Anonimizzare-Dati-Sensibili-Log-Azure-Front-Door.aspx)
 - [Rendere le variabili read-only in una pipeline di Azure DevOps](https://www.dopsitalia.com/script/137/Rendere-Variabili-Readonly-Pipeline-Azure-DevOps.aspx)
 - [Generare una User Delegation SAS in .NET per Azure Blob Storage](https://www.cloudnativeitalia.com/script/301/Generare-User-Delegation-SAS-.NET-Azure-Blob-Storage.aspx)
-- [Managed deployment strategy in Azure DevOps](https://www.dopsitalia.com/script/136/Managed-Deployment-Strategy-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
