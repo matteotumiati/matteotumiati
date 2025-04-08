@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Utilizzare Locust con Azure Load Testing](https://www.cloudnativeitalia.com/script/305/Utilizzare-Locust-Azure-Load-Testing.aspx)
 - [Autenticazione di git tramite Microsoft Entra ID in Azure DevOps](https://www.dopsitalia.com/script/140/Autenticazione-Git-Tramite-Microsoft-Entra-ID-Azure-DevOps.aspx)
 - [Disabilitare le run concorrenti di una pipeline di Azure DevOps](https://www.dopsitalia.com/script/139/Disabilitare-Run-Concorrenti-Pipeline-Azure-DevOps.aspx)
 - [Rendere i propri workflow e le GitHub Action utilizzate pi&#249; sicure](https://www.dopsitalia.com/script/138/Rendere-Workflow-GitHub-Action-Utilizzate-Sicure.aspx)
 - [Creare agenti facilmente con Azure AI Agent Service](https://www.cloudnativeitalia.com/script/304/Creare-Agenti-Facilmente-Azure-Agent-Service.aspx)
-- [Ricevere notifiche sui test con Azure Load Testing](https://www.cloudnativeitalia.com/script/303/Ricevere-Notifiche-Test-Azure-Load-Testing.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
