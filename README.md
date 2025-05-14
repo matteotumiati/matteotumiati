@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Montare Azure Blob Storage su Linux con BlobFuse2](https://www.cloudnativeitalia.com/script/307/Montare-Azure-Blob-Storage-Linux-BlobFuse2.aspx)
 - [Recuperare le subissue e il loro stato di completamento in GitHub](https://www.dopsitalia.com/script/142/Recuperare-Subissue-Completamento-GitHub.aspx)
 - [Testare il failover sulle region in Azure Storage](https://www.cloudnativeitalia.com/script/306/Testare-Failover-Region-Azure-Storage.aspx)
 - [Fissare una versione dell&#39;agent nelle pipeline di Azure DevOps](https://www.dopsitalia.com/script/141/Fissare-Versione-Agent-Pipeline-Azure-DevOps.aspx)
 - [Utilizzare Locust con Azure Load Testing](https://www.cloudnativeitalia.com/script/305/Utilizzare-Locust-Azure-Load-Testing.aspx)
-- [Autenticazione di git tramite Microsoft Entra ID in Azure DevOps](https://www.dopsitalia.com/script/140/Autenticazione-Git-Tramite-Microsoft-Entra-ID-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
