@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Abilitare automaticamente il force push di un gruppo su Azure DevOps](https://www.dopsitalia.com/script/143/Abilitare-Automaticamente-Force-Push-Gruppo-Azure-DevOps.aspx)
 - [Supportare la crittografia di ASP.NET Core con Azure Container App](https://www.cloudnativeitalia.com/script/309/Supportare-Crittografia-ASP.NET-Core-Azure-Container-App.aspx)
 - [Utilizzare WebJobs su Linux con Azure App Service](https://www.cloudnativeitalia.com/script/308/Utilizzare-WebJobs-Linux-Azure-App-Service.aspx)
 - [Montare Azure Blob Storage su Linux con BlobFuse2](https://www.cloudnativeitalia.com/script/307/Montare-Azure-Blob-Storage-Linux-BlobFuse2.aspx)
 - [Recuperare le subissue e il loro stato di completamento in GitHub](https://www.dopsitalia.com/script/142/Recuperare-Subissue-Completamento-GitHub.aspx)
-- [Testare il failover sulle region in Azure Storage](https://www.cloudnativeitalia.com/script/306/Testare-Failover-Region-Azure-Storage.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
