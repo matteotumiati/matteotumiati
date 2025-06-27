@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Recuperare gli audit log in Azure DevOps](https://www.dopsitalia.com/script/145/Recuperare-Audit-Log-Azure-DevOps.aspx)
 - [Centralizzare gli endpoint AI Foundry con Azure API Management](https://www.cloudnativeitalia.com/script/311/Centralizzare-Endpoint-Foundry-Azure-API-Management.aspx)
 - [Configurare automaticamente un webhook in Azure DevOps](https://www.dopsitalia.com/script/144/Configurare-Automaticamente-Webhook-Azure-DevOps.aspx)
 - [Gestire il routing HTTP in Azure Container App](https://www.cloudnativeitalia.com/script/310/Gestire-Routing-HTTP-Azure-Container-App.aspx)
 - [Utilizzare Containers in .NET Aspire](https://www.aspitalia.com/script/1513/Utilizzare-Containers-.NET-Aspire.aspx)
-- [Abilitare automaticamente il force push di un gruppo su Azure DevOps](https://www.dopsitalia.com/script/143/Abilitare-Automaticamente-Force-Push-Gruppo-Azure-DevOps.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
