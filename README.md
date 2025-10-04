@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [The Agentic Day - Milano](https://www.aspitalia.com/eventi/98/The-Agentic-Day-Milano.aspx)
 - [.NET Conference Italia 2025 - Milano](https://www.aspitalia.com/eventi/97/.NET-Conference-Italia-2025-Milano.aspx)
+- [Integrare modelli AI in un workflow di GitHub](https://www.dopsitalia.com/script/146/Integrare-Modelli-Workflow-GitHub.aspx)
 - [Esporre un server MCP con Azure API Management](https://www.cloudnativeitalia.com/script/312/Esporre-Server-MCP-Azure-API-Management.aspx)
 - [Recuperare gli audit log in Azure DevOps](https://www.dopsitalia.com/script/145/Recuperare-Audit-Log-Azure-DevOps.aspx)
-- [Centralizzare gli endpoint AI Foundry con Azure API Management](https://www.cloudnativeitalia.com/script/311/Centralizzare-Endpoint-Foundry-Azure-API-Management.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
