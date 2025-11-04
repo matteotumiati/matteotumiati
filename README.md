@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [The Agentic Day - Milano](https://www.aspitalia.com/eventi/98/The-Agentic-Day-Milano.aspx)
 - [.NET Conference Italia 2025 - Milano](https://www.aspitalia.com/eventi/97/.NET-Conference-Italia-2025-Milano.aspx)
+- [Gestire pubblicazione Kubernetes tramite .NET Aspire](https://www.aspitalia.com/script/1520/Gestire-Pubblicazione-Kubernetes-Tramite-.NET-Aspire.aspx)
 - [Pubblicare un MCP Server in GitHub MCP Registry](https://www.dopsitalia.com/script/149/Pubblicare-MCP-Server-GitHub-MCP-Registry.aspx)
 - [Esporre tool MCP con Azure Functions](https://www.cloudnativeitalia.com/script/316/Esporre-Tool-MCP-Azure-Functions.aspx)
-- [Proteggere l&#39;endpoint dell&#39;agente A2A delle Logic App](https://www.cloudnativeitalia.com/script/315/Proteggere-Endpoint-Agente-A2A-Logic-App.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
