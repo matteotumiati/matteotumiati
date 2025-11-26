@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [The Agentic Day - Milano](https://www.aspitalia.com/eventi/98/The-Agentic-Day-Milano.aspx)
+- [DevSecOps per .NET: dalla teoria alla pratica](https://media.aspitalia.com/events/netconf25-DevSecOps-dotNET.media)
+- [Semplificare i deployment con le label in Azure Container App](https://www.cloudnativeitalia.com/script/320/Semplificare-Deployment-Label-Azure-Container-App.aspx)
 - [Importare repository da Bitbucket a GitHub Enterprise Cloud](https://www.dopsitalia.com/script/152/Importare-Repository-Bitbucket-GitHub-Enterprise-Cloud.aspx)
 - [Abilitare il rolling update su Azure Functions flex consumption](https://www.cloudnativeitalia.com/script/319/Abilitare-Rolling-Update-Azure-Functions-Flex-Consumption.aspx)
-- [Escludere alcuni file da GitHub Copilot](https://www.dopsitalia.com/script/151/Escludere-File-GitHub-Copilot.aspx)
-- [.NET Conference Italia 2025 - Milano](https://www.aspitalia.com/eventi/97/.NET-Conference-Italia-2025-Milano.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
