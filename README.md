@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [The Agentic Day - Milano](https://www.aspitalia.com/eventi/98/The-Agentic-Day-Milano.aspx)
+- [Integrare Agenti A2A in Azure API Management](https://www.cloudnativeitalia.com/script/322/Integrare-Agenti-A2A-Azure-API-Management.aspx)
 - [Effettuare un clone parziale di un repository di GitHub](https://www.dopsitalia.com/script/153/Effettuare-Clone-Parziale-Repository-GitHub.aspx)
 - [Personalizzare le pagine di errore su Azure App Service](https://www.cloudnativeitalia.com/script/321/Personalizzare-Pagine-Errore-Azure-App-Service.aspx)
 - [DevSecOps per .NET: dalla teoria alla pratica](https://media.aspitalia.com/events/netconf25-DevSecOps-dotNET.media)
-- [Semplificare i deployment con le label in Azure Container App](https://www.cloudnativeitalia.com/script/320/Semplificare-Deployment-Label-Azure-Container-App.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
