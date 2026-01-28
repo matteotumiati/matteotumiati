@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Migrare applicazioni legacy nel cloud con Azure App Service Managed Instance](https://www.cloudnativeitalia.com/script/324/Migrare-Applicazioni-Legacy-Cloud-Azure-App-Service-Managed-Instance.aspx)
 - [Ricerca delle GitHub issue tramite operatori logici](https://www.dopsitalia.com/script/155/Ricerca-GitHub-Issue-Tramite-Operatori-Logici.aspx)
 - [Gestire trasferimenti cloud con Azure Storage Mover](https://www.cloudnativeitalia.com/script/323/Gestire-Trasferimenti-Cloud-Azure-Storage-Mover.aspx)
 - [Self-healing degli unit test con Copilot in GitHub](https://www.dopsitalia.com/script/154/Selfhealing-Unit-Test-Copilot-GitHub.aspx)
 - [The Agentic Day - Milano](https://www.aspitalia.com/eventi/98/The-Agentic-Day-Milano.aspx)
-- [Integrare Agenti A2A in Azure API Management](https://www.cloudnativeitalia.com/script/322/Integrare-Agenti-A2A-Azure-API-Management.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
