@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [Filtrare i dati in ASP.NET Core usando OpenTelemetry su Azure Monitor](https://www.cloudnativeitalia.com/script/328/Filtrare-Dati-ASP.NET-Core-Usando-OpenTelemetry-Azure-Monitor.aspx)
 - [Come automatizzare il download dei report di billing da GitHub Enterprise](https://www.dopsitalia.com/script/159/Automatizzare-Download-Report-Billing-GitHub-Enterprise.aspx)
 - [Configurare OpenTelemetry per Application Insights su ASP.NET Core](https://www.cloudnativeitalia.com/script/327/Configurare-OpenTelemetry-Application-Insights-ASP.NET-Core.aspx)
 - [Introduzione a GitHub Copilot CLI](https://www.dopsitalia.com/script/158/Introduzione-GitHub-Copilot-CLI.aspx)
 - [Rendere affidabile lo scale out su Azure App Service](https://www.cloudnativeitalia.com/script/326/Rendere-Affidabile-Scale-Out-Azure-App-Service.aspx)
-- [Gestione dei prompt file a livello di organizzazione aziendale in GitHub](https://www.dopsitalia.com/script/157/Gestione-Prompt-File-Livello-Organizzazione-Aziendale-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
