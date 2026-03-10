@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Future Dev Day - Milano](https://www.aspitalia.com/eventi/100/Future-Dev-Day-Milano.aspx)
 - [Global Azure 2026 - ASPItalia.com - Milano](https://www.aspitalia.com/eventi/99/Global-Azure-2026-ASPItalia.com-Milano.aspx)
+- [Esporre workflow come server MCP con Azure Logic Apps](https://www.cloudnativeitalia.com/script/330/Esporre-Workflow-Server-MCP-Azure-Logic-Apps.aspx)
 - [Evitare la compressione degli artefatti in un workflow di GitHub](https://www.dopsitalia.com/script/161/Evitare-Compressione-Artefatti-Workflow-GitHub.aspx)
 - [Monitorare le tabelle di Azure SQL Database con Change Event Streaming](https://www.cloudnativeitalia.com/script/329/Monitorare-Tabelle-Azure-SQL-Database-Change-Event-Streaming.aspx)
-- [Raggruppamento degli aggiornamenti di dipendenze tra directory in un monorepo con Dependabot](https://www.dopsitalia.com/script/160/Raggruppamento-Aggiornamenti-Dipendenze-Directory-Monorepo-Dependabot.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
