@@ -52,7 +52,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
   <!--START_SECTION:activity-->  
 
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#401](undefined) in [rancher/fleet-docs](https://github.com/rancher/fleet-docs)
+1. ❗️ Opened issue [#54291](https://github.com/rancher/rancher/issues/54291) in [rancher/rancher](https://github.com/rancher/rancher)
 2. ❗️ Opened issue [#127](https://github.com/Readme-Workflows/recent-activity/issues/127) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. 🎉 Merged PR [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 4. 👍 Approved [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100#pullrequestreview-788741243) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
@@ -60,7 +60,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 22nd, 2026, 10:09:05 AM
+Last Updated: Monday, March 23rd, 2026, 10:25:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
