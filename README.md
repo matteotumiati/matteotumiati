@@ -33,9 +33,9 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!-- BLOG-POSTS:START -->
 - [Future Dev Day - Milano](https://www.aspitalia.com/eventi/100/Future-Dev-Day-Milano.aspx)
 - [Global Azure 2026 - ASPItalia.com - Milano](https://www.aspitalia.com/eventi/99/Global-Azure-2026-ASPItalia.com-Milano.aspx)
+- [Integrare OpenTelemetry direttamente in Azure Monitor](https://www.cloudnativeitalia.com/script/333/Integrare-OpenTelemetry-Direttamente-Azure-Monitor.aspx)
 - [Agentic Workflows in GitHub](https://www.dopsitalia.com/script/164/Agentic-Workflows-GitHub.aspx)
 - [Ottimizzare gli indici con Automatic Index Compaction in Azure SQL Database](https://www.cloudnativeitalia.com/script/332/Ottimizzare-Indici-Automatic-Index-Compaction-Azure-SQL-Database.aspx)
-- [Utilizzare zizmor per rendere pi&#249; sicuri i workflow di GitHub](https://www.dopsitalia.com/script/163/Utilizzare-Zizmor-Rendere-Sicuri-Workflow-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
