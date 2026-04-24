@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Future Dev Day - Milano](https://www.aspitalia.com/eventi/100/Future-Dev-Day-Milano.aspx)
-- [Centralizzare e governare MCP server e Skill con Azure API Center](https://www.cloudnativeitalia.com/script/334/Centralizzare-Governare-MCP-Server-Skill-Azure-API-Center.aspx)
-- [Global Azure 2026 - ASPItalia.com - Milano](https://www.aspitalia.com/eventi/99/Global-Azure-2026-ASPItalia.com-Milano.aspx)
-- [Gestione dei codeowners in GitHub](https://www.dopsitalia.com/script/165/Gestione-Codeowners-GitHub.aspx)
-- [Integrare OpenTelemetry direttamente in Azure Monitor](https://www.cloudnativeitalia.com/script/333/Integrare-OpenTelemetry-Direttamente-Azure-Monitor.aspx)
+- [Stop alle password con Azure Managed Identity](https://media.aspitalia.com/events/globalazure26-Stop-Password-Azure-Managed-Identity.media)
+- [Microsoft Fabric: la piattaforma unificata per l&#39;ecosistema dati moderno](https://media.aspitalia.com/events/globalazure26-Microsoft-Fabric-Piattaforma-Unificata-Ecosistema-Dati-Moderno.media)
+- [Disabilitare la telemetria nella CLI di GitHub](https://www.dopsitalia.com/script/166/Disabilitare-Telemetria-CLI-GitHub.aspx)
+- [Running workloads and operations with Azure Kubernetes Service](https://media.aspitalia.com/events/globalazure26-Running-Workloads-And-Operations-With-Azure-Kubernetes-Service.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
