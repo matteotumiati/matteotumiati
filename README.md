@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Future Dev Day - Milano](https://www.aspitalia.com/eventi/100/Future-Dev-Day-Milano.aspx)
+- [Azure SQL Database per dev: tutte le novit&#224; da non perdere](https://media.aspitalia.com/events/globalazure26-Azure-SQL-Database-Dev-Novita-Perdere.media)
 - [Stop alle password con Azure Managed Identity](https://media.aspitalia.com/events/globalazure26-Stop-Password-Azure-Managed-Identity.media)
 - [Microsoft Fabric: la piattaforma unificata per l&#39;ecosistema dati moderno](https://media.aspitalia.com/events/globalazure26-Microsoft-Fabric-Piattaforma-Unificata-Ecosistema-Dati-Moderno.media)
 - [Disabilitare la telemetria nella CLI di GitHub](https://www.dopsitalia.com/script/166/Disabilitare-Telemetria-CLI-GitHub.aspx)
-- [Running workloads and operations with Azure Kubernetes Service](https://media.aspitalia.com/events/globalazure26-Running-Workloads-And-Operations-With-Azure-Kubernetes-Service.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
