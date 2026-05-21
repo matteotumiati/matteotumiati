@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [Future Dev Day - Milano](https://www.aspitalia.com/eventi/100/Future-Dev-Day-Milano.aspx)
+- [Effettuare chiamate API tramite GitHub App](https://www.dopsitalia.com/script/169/Effettuare-Chiamate-API-Tramite-GitHub-App.aspx)
 - [Avviare rapidamente un container con Azure Container Apps Express](https://www.cloudnativeitalia.com/script/336/Avviare-Rapidamente-Container-Azure-Container-Apps-Express.aspx)
 - [Integrare il Docker Model Runner in un workflow di GitHub](https://www.dopsitalia.com/script/168/Integrare-Docker-Model-Runner-Workflow-GitHub.aspx)
 - [Testare le API di Azure Resource Manager con API Playground](https://www.cloudnativeitalia.com/script/335/Testare-API-Azure-Resource-Manager-API-Playground.aspx)
-- [GitHub Copilot CLI in ambienti offline](https://www.dopsitalia.com/script/167/GitHub-Copilot-CLI-Ambienti-Offline.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
