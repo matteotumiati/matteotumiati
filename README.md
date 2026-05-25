@@ -52,15 +52,15 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
   <!--START_SECTION:activity-->  
 
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#54291](https://github.com/rancher/rancher/issues/54291) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗️ Opened issue [#127](https://github.com/Readme-Workflows/recent-activity/issues/127) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 🎉 Merged PR [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. 👍 Approved [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100#pullrequestreview-788741243) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. 🎉 Merged PR [#101](https://github.com/Welcome-Bot/discord-pagination/pull/101) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ❗️ Opened issue [#12](https://github.com/matteotumiati/grubify/issues/12) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
+2. ❗️ Opened issue [#11](https://github.com/matteotumiati/grubify/issues/11) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
+3. ✔️ Closed issue [#10](https://github.com/matteotumiati/grubify/issues/10) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
+4. ✔️ Closed issue [#9](https://github.com/matteotumiati/grubify/issues/9) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
+5. ✔️ Closed issue [#8](https://github.com/matteotumiati/grubify/issues/8) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 24th, 2026, 10:37:13 AM
+Last Updated: Monday, May 25th, 2026, 11:27:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
