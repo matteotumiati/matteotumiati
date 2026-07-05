@@ -35,7 +35,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 - [GitHub Quick Review per la valutazione dello stato di compliance dell&#39;organizzazione aziendale](https://www.dopsitalia.com/script/170/GitHub-Quick-Review-Valutazione-Compliance-Organizzazione-Aziendale.aspx)
 - [Esporre tool MCP da API REST con Azure App Service](https://www.cloudnativeitalia.com/script/337/Esporre-Tool-MCP-API-REST-Azure-App-Service.aspx)
 - [How to be a DevOps engineer in the AI era](https://media.aspitalia.com/events/FutureDevDay26-How-BE-DevOps-Engineer-The.media)
-- [Future Dev Day - Milano](https://www.aspitalia.com/eventi/100/Future-Dev-Day-Milano.aspx)
+- [Future Dev Day - Milano](https://www.aspitalia.com/eventi/100/Future-Dev-Day.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
