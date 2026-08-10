@@ -52,7 +52,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
   <!--START_SECTION:activity-->  
 
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#12](https://github.com/matteotumiati/grubify/issues/12) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
+1. ❗️ Opened issue [#5536](https://github.com/rancher/fleet/issues/5536) in [rancher/fleet](https://github.com/rancher/fleet)
 2. ❗️ Opened issue [#11](https://github.com/matteotumiati/grubify/issues/11) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
 3. ✔️ Closed issue [#10](https://github.com/matteotumiati/grubify/issues/10) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
 4. ✔️ Closed issue [#9](https://github.com/matteotumiati/grubify/issues/9) in [matteotumiati/grubify](https://github.com/matteotumiati/grubify)
@@ -60,7 +60,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 9th, 2026, 10:12:14 AM
+Last Updated: Monday, August 10th, 2026, 10:30:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
