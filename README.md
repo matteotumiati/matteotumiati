@@ -31,13 +31,13 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [.NET Conference Italia 2026 - Milano](https://www.aspitalia.com/eventi/101/.NET-Conference-Italia-2026-Milano.aspx)
 - [Disponibile .NET 11 RC1 con aggiornamenti per runtime, SDK, MSBuild, NuGet e i principali framework della piattaforma. Un rilascio interessante per chi lavora su applicazioni cloud, web e desktop con stack Microsoft.
 
 #dotnet #csharp #aspnetcore #devops https://aspit.co/cjz](https://shorts.aspitalia.com/6553)
 - [Integrare email esterne con Azure Functions e Managed Connectors](https://www.cloudnativeitalia.com/script/338/Integrare-Email-Esterne-Azure-Functions-Managed-Connectors.aspx)
 - [GitHub Quick Review per la valutazione dello stato di compliance dell&#39;organizzazione aziendale](https://www.dopsitalia.com/script/170/GitHub-Quick-Review-Valutazione-Compliance-Organizzazione-Aziendale.aspx)
 - [Esporre tool MCP da API REST con Azure App Service](https://www.cloudnativeitalia.com/script/337/Esporre-Tool-MCP-API-REST-Azure-App-Service.aspx)
-- [How to be a DevOps engineer in the AI era](https://media.aspitalia.com/events/FutureDevDay26-How-BE-DevOps-Engineer-The.media)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
