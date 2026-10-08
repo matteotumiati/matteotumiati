@@ -32,12 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2026 - Milano](https://www.aspitalia.com/eventi/101/.NET-Conference-Italia-2026-Milano.aspx)
+- [Evitare il cache poisoning nei workflow di GitHub](https://www.dopsitalia.com/script/172/Evitare-Cache-Poisoning-Workflow-GitHub.aspx)
 - [Diagnosticare e monitorare Azure con Azure MCP Server](https://www.cloudnativeitalia.com/script/340/Diagnosticare-Monitorare-Azure-Azure-MCP-Server.aspx)
 - [Enterprise Live Migrations - Migrare da Azure DevOps a GitHub](https://www.dopsitalia.com/script/171/Migrare-Azure-DevOps-GitHub.aspx)
 - [Creare una UI per i tool MCP con resource e Azure Functions](https://www.cloudnativeitalia.com/script/339/Creare-UI-Tool-MCP-Resource-Azure-Functions.aspx)
-- [Disponibile .NET 11 RC1 con aggiornamenti per runtime, SDK, MSBuild, NuGet e i principali framework della piattaforma. Un rilascio interessante per chi lavora su applicazioni cloud, web e desktop con stack Microsoft.
-
-#dotnet #csharp #aspnetcore #devops https://aspit.co/cjz](https://shorts.aspitalia.com/6553)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
