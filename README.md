@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [.NET Conference Italia 2026 - Milano](https://www.aspitalia.com/eventi/101/.NET-Conference-Italia-2026-Milano.aspx)
+- [Introduzione ai GitHub Agentic Workflows](https://www.dopsitalia.com/script/175/Introduzione-GitHub-Agentic-Workflows.aspx)
 - [Creare una toolbox condivisa per gli agenti in Microsoft Foundry](https://www.cloudnativeitalia.com/script/343/Creare-Toolbox-Condivisa-Agenti-Microsoft-Foundry.aspx)
 - [Bloccare il traffico di rete in uscita dal runner di GitHub](https://www.dopsitalia.com/script/174/Bloccare-Traffico-Rete-Uscita-Runner-GitHub.aspx)
 - [Esplorare database e container con Azure Cosmos DB Shell](https://www.cloudnativeitalia.com/script/342/Esplorare-Database-Container-Azure-Cosmos-DB-Shell.aspx)
-- [Gestione del system path nei workflow di GitHub](https://www.dopsitalia.com/script/173/Gestione-System-Path-Workflow-GitHub.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
