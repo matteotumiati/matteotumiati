@@ -31,11 +31,11 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [GitHub Enterprise &amp; AI Day 2027 - Milano](https://www.aspitalia.com/eventi/102/GitHub-Enterprise-Day-2027-Milano.aspx)
 - [.NET Conference Italia 2026 - Milano](https://www.aspitalia.com/eventi/101/.NET-Conference-Italia-2026-Milano.aspx)
 - [Lockfiles per le GitHub Actions](https://www.dopsitalia.com/script/176/Lockfiles-GitHub-Actions.aspx)
 - [Analizzare la qualit&#224; delle risposte con Microsoft Foundry](https://www.cloudnativeitalia.com/script/344/Analizzare-Qualita-Risposte-Microsoft-Foundry.aspx)
 - [Introduzione ai GitHub Agentic Workflows](https://www.dopsitalia.com/script/175/Introduzione-GitHub-Agentic-Workflows.aspx)
-- [Creare una toolbox condivisa per gli agenti in Microsoft Foundry](https://www.cloudnativeitalia.com/script/343/Creare-Toolbox-Condivisa-Agenti-Microsoft-Foundry.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
