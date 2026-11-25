@@ -32,10 +32,10 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 
 <!-- BLOG-POSTS:START -->
 - [GitHub Enterprise &amp; AI Day 2027 - Milano](https://www.aspitalia.com/eventi/102/GitHub-Enterprise-Day-2027-Milano.aspx)
+- [Dal codice alla produzione con GitHub Copilot](https://media.aspitalia.com/events/netconf26-Codice-Produzione-GitHub-Copilot.media)
+- [GitHub Copilot e .NET: progettare un repository per lo sviluppo agentico](https://media.aspitalia.com/events/netconf26-GitHub-Copilot-.NET-Progettare-Repository-Sviluppo-Agentico.media)
+- [Configurare la geo-ridondanza in Azure App Service](https://www.cloudnativeitalia.com/script/346/Configurare-Georidondanza-Azure-App-Service.aspx)
 - [Introduzione a GitHub Copilot Evals](https://www.dopsitalia.com/script/177/Introduzione-GitHub-Copilot-Evals.aspx)
-- [.NET Conference Italia 2026 - Milano](https://www.aspitalia.com/eventi/101/.NET-Conference-Italia-2026-Milano.aspx)
-- [Ridurre i rischi di contenuti dannosi e jailbreak con Microsoft Foundry](https://www.cloudnativeitalia.com/script/345/Ridurre-Rischi-Contenuti-Dannosi-Jailbreak-Microsoft-Foundry.aspx)
-- [Lockfiles per le GitHub Actions](https://www.dopsitalia.com/script/176/Lockfiles-GitHub-Actions.aspx)
 <!-- BLOG-POSTS:END -->
 
 ▶ [more blog posts...][blog]
