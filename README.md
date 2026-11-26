@@ -60,7 +60,7 @@ I participate as a speaker and organizer at several top events in Italy, I'm a C
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 25th, 2026, 10:09:42 AM
+Last Updated: Thursday, November 26th, 2026, 10:09:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   <!--END_SECTION:activity-->
